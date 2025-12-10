@@ -21,7 +21,7 @@
 
 .gameContainer {
   padding: 15px;
-  min-width: 300px;
+  width: 100%;
 }
 
 .currentWord {
@@ -39,7 +39,6 @@
 }
 
 .button {
-  max-width: 400px;
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
