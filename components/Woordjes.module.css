@@ -1,3 +1,9 @@
+.newGame {
+  font-size: 4rem;
+  border-radius: 10px;
+  padding: 20px 20px;
+}
+
 .startAgain {
   position: absolute;
   top: 10px;
@@ -51,4 +57,18 @@
   border: 2px solid transparent;
   text-decoration: none;
   text-align: center;
+}
+
+.button:disabled {
+  color: #c9c9c9;
+  cursor: default;
+}
+
+.correct {
+  background-color: green;
+}
+
+.answerGiven {
+  width: 100%;
+  margin-top: 2rem;
 }

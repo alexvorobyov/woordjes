@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Woordjes from '@components/Woordjes'
+import Woordjes from '../components/Woordjes'
 
 export default function Home() {
   return (
