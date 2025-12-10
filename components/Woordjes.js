@@ -61,7 +61,6 @@ export default function Woordjes() {
   };
 
   const nextWord = (chosenWord) => {
-    console.log(currentWord.word, chosenWord);
     if (currentWord.word === chosenWord) {
       setCurrentStats({
         correct: currentStats.correct + 1,
