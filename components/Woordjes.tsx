@@ -128,7 +128,7 @@ export default function Woordjes() {
   if (!currentWord) {
     return (
       <button className={styles.newGame} onClick={() => resetGame()}>
-        Start again
+        Go!
       </button>
     );
   }

@@ -513,7 +513,7 @@
   },
   "Werpen": {
     "translation": "to throw",
-    "example": "Twee lampjes werpen licht op het donkerbruine blad."
+    "example": "Twee lampjes werpen licht op het donkerbruine blad. Ze werpt me tegen de muur en doet mijn rits open."
   },
   "Haast": {
     "translation": "almost",
@@ -1710,5 +1710,33 @@
   "Gloeien": {
     "translation": "to glow",
     "example": "Ik eet liever iets dat niet in donker gloeit."
+  },
+  "Smijten": {
+    "translation": "to throw, to fling",
+    "example": "Hij smijt de peer tegen de muur."
+  },
+  "Bescheiden": {
+    "translation": "modest",
+    "example": "Onze winnaar is te bescheiden om naar het podium te komen."
+  },
+  "Weglopen": {
+    "translation": "walk away, run away",
+    "example": "Dat geeft misschien hoop dat hij gewoon is weggelopen."
+  },
+  "Bemoeien zich": {
+    "translation": "to interfere",
+    "example": "Ik vind niet dat we ons moeten bemoeien met haar leven."
+  },
+  "Schoot, de": {
+    "translation": "lap",
+    "example": "Ik klom op zijn schoot en gaf hem een harde knuffel."
+  },
+  "Zeuren": {
+    "translation": "to whine, to nag",
+    "example": "De kinderen zeuren om snoep."
+  },
+  "Snuiven": {
+    "translation": "to sniff",
+    "example": "Hij snuift de lucht op."
   }
 }
