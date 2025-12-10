@@ -162,12 +162,17 @@ export default function Woordjes() {
           ))}
         </div>
         {gameState.answerGiven && (
-          <button
-            className={classnames(styles.answerGiven, styles.button)}
-            onClick={() => nextWord()}
-          >
-            Next
-          </button>
+          <>
+            <div className={styles.answerExample}>
+              {gameState.answerGiven.example}
+            </div>
+            <button
+              className={classnames(styles.nextWord, styles.button)}
+              onClick={() => nextWord()}
+            >
+              Next
+            </button>
+          </>
         )}
       </div>
     </>

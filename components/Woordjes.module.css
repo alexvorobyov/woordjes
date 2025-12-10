@@ -68,7 +68,11 @@
   background-color: green;
 }
 
-.answerGiven {
+.answerExample {
+  color: #fff;
+  margin: 1.5rem 0;
+}
+
+.nextWord {
   width: 100%;
-  margin-top: 2rem;
 }
