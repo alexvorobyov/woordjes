@@ -1413,7 +1413,7 @@
   },
   "Klank, de": {
     "translation": "sound",
-    "example": "Zijn viool is prachtig van klank."
+    "example": "Zijn viool heeft een prachtige klank."
   },
   "Hol": {
     "translation": "hollow",
@@ -1738,5 +1738,53 @@
   "Snuiven": {
     "translation": "to sniff",
     "example": "Hij snuift de lucht op."
+  },
+  "Overvallen": {
+    "translation": "to surprise, to raid, to overtake, to assault",
+    "example": "Hij probeert naar huis te gaan, maar een storm overvalt hem. U begon met banken te overvallen."
+  },
+  "Langzamerhand": {
+    "translation": "gradually",
+    "example": "Ze begon langzamerhand te begrijpen wat er gebeurde."
+  },
+  "Schedel, de": {
+    "translation": "skull",
+    "example": "De piraat bewondert een mooie schedel."
+  },
+  "Passen": {
+    "translation": "fit",
+    "example": "Zij passen uitstekend bij elkaar."
+  },
+  "Deuropening, de": {
+    "translation": "doorway",
+    "example": "Ik bleef een paar minuten in de deuropening staan."
+  },
+  "Onderdrukken": {
+    "translation": "to suppress",
+    "example": "Ze onderdrukte haar woede. Het regime onderdrukt de bevolking."
+  },
+  "Likken": {
+    "translation": "to lick",
+    "example": "Hij likte met zijn tong langs zijn droge lippen."
+  },
+  "Afwezig": {
+    "translation": "absent",
+    "example": "Hij is altijd afwezig wanneer ik presenteer."
+  },
+  "Giechelen": {
+    "translation": "to giggle",
+    "example": "De meisjes giechelden achter de schooldeur."
+  },
+  "Kont, de": {
+    "translation": "butt",
+    "example": "Ik toon mijn kont aan de bewoners van het gebouw aan de overkant."
+  },
+  "Verbeelding, de": {
+    "translation": "imagination",
+    "example": "Ik gebruik mijn verbeelding om een verhaal te bedenken."
+  },
+  "Versleten": {
+    "translation": "worn",
+    "example": "De apparatuur is versleten maar nog steeds bruikbaar. (bruikbaar === usable)"
   }
 }
