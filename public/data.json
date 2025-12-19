@@ -875,10 +875,6 @@
     "translation": "wall",
     "example": "Hij wees naar de grote klok aan de wand."
   },
-  "Opwinden zich": {
-    "translation": "to get excited, to get worked up",
-    "example": "Heel de dag had hij zich door die gedachten laten opwinden."
-  },
   "Barsten": {
     "translation": "to crack, to erupt",
     "example": "Ik stap nooit op barsten, en soms loop ik achteruit. De voorruit van zijn voertuig was gebarsten."
@@ -916,7 +912,7 @@
     "example": "Haar ogen straalden en haar mond lachte."
   },
   "Wenden zich": {
-    "translation": "to turn",
+    "translation": "ouderwets, to turn",
     "example": "Ik wend me tot de cameraman."
   },
   "Klok, de": {
@@ -1725,7 +1721,7 @@
   },
   "Bemoeien zich": {
     "translation": "to interfere",
-    "example": "Ik vind niet dat we ons moeten bemoeien met haar leven."
+    "example": "Ik vind niet dat we ons moeten bemoeien met haar leven. Ik bemoei me met de organisatie van het feest."
   },
   "Schoot, de": {
     "translation": "lap",
@@ -1786,5 +1782,85 @@
   "Versleten": {
     "translation": "worn",
     "example": "De apparatuur is versleten maar nog steeds bruikbaar. (bruikbaar === usable)"
+  },
+  "Ontroeren": {
+    "translation": "move emotionally, formeel",
+    "example": "Ik was ontroerd door het gebaar. Het verhaal ontroerde me diep."
+  },
+  "Amuseren zich": {
+    "translation": "to amuse",
+    "example": "We amuseerden ons prima op het feest. Hij amuseerde zich met een spelletje op zijn telefoon. De kinderen amuseren zich in de speeltuin."
+  },
+  "Bek, de": {
+    "translation": "mouth",
+    "example": "De bek ging wijd open maar sloot direct daarna weer. Hoe je bek!"
+  },
+  "Schaamte, de": {
+    "translation": "shame",
+    "example": "Ik kan wel in de grond kruipen van schaamte."
+  },
+  "Plas, de": {
+    "translation": "puddle",
+    "example": "Buiten rijdt de auto door de plassen."
+  },
+  "Ruw": {
+    "translation": "rough",
+    "example": "Ruwe handen, ruwe olie. Hij werd ruw aangepakt."
+  },
+  "Spoelen": {
+    "translation": "to wash",
+    "example": "Spoel de groenten goed. Het water spoelt langs de kant van de rivier. Ik spoelde de film terug."
+  },
+  "Hel, de": {
+    "translation": "hell",
+    "example": "Met wat ik gedaan heb, ga ik naar de hel."
+  },
+  "Lichten": {
+    "translation": "to lift",
+    "example": "Ze lichtte het kind voorzichtig op."
+  },
+  "Irriteren": {
+    "translation": "to irritate",
+    "example": "De stemmen die mij ergeren en irriteren kan ik meteen tot zwijgen brengen."
+  },
+  "Tot + zelfstandig naamwoord + brengen": {
+    "translation": "something transitions into another state",
+    "example": "tot zwijgen brengen, tot rust brengen, tot stilstand brengen, tot leven brengen, tot stand brengen."
+  },
+  "Onrustig": {
+    "translation": "restless",
+    "example": "Ik zit onrustig en tel de tikken van de klok."
+  },
+  "Verrassing, de": {
+    "translation": "surprise",
+    "example": "Het was een verrassing voor mij toen ik erachter kwam dat hij in het leger diende."
+  },
+  "Achterkomen": {
+    "translation": "to discover, to find out",
+    "example": "Ze kwam er pas later achter wat er was gebeurd. Ik kwam erachter dat hij loog."
+  },
+  "Uitgeput": {
+    "translation": "exhausted",
+    "example": "Na het opruimen voel ik me uitgeput."
+  },
+  "Groeten": {
+    "translation": "to greet",
+    "example": "Ze groette hem en vroeg waar hij vandaan kwam."
+  },
+  "Rinkelen": {
+    "translation": "to ring",
+    "example": "De bel rinkelde zachtjes. Munten rinkelen in zijn zak. De windbelletjes rinkelen in de tuin."
+  },
+  "Struikelen": {
+    "translation": "to stumble",
+    "example": "Ik struikelde over een losse steen. Pas op dat je niet struikelt! Ze struikelde bijna over het tapijt."
+  },
+  "Bewondering, de": {
+    "translation": "admiration",
+    "example": "Ze kijkt me diep in de ogen met een blik vol bewondering en liefde."
+  },
+  "Ontwijken": {
+    "translation": "to avoid",
+    "example": "Ik neem altijd de andere weg om hem te ontwijken."
   }
 }
