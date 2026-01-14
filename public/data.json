@@ -317,7 +317,7 @@
   },
   "Zover": {
     "translation": "so far",
-    "example": "Simpel gezegd, tot zover, is er totaal geen virus."
+    "example": "Simpel gezegd, tot zover, is er totaal geen virus. Ik lees het wel als het zover is. (als het zover is === when the time comes)"
   },
   "Daarover": {
     "translation": "about it",
@@ -934,6 +934,10 @@
   "Lijk, het": {
     "translation": "corpse",
     "example": "Deze jongen ligt zo stil als een lijk."
+  },
+  "Optrekken met": {
+    "translation": "hang out with",
+    "example": "Hij trekt nauwelijks op met zijn collega’s."
   },
   "Moed, de": {
     "translation": "courage",
@@ -1862,5 +1866,137 @@
   "Ontwijken": {
     "translation": "to avoid",
     "example": "Ik neem altijd de andere weg om hem te ontwijken."
+  },
+  "Ach": {
+    "translation": "oh well",
+    "example": "Ach, dat geeft toch helemaal niks (that doesn’t matter at all)"
+  },
+  "Prikken": {
+    "translation": "to prick",
+    "example": "Zorg ervoor dat je jezelf niet prikt met de naald."
+  },
+  "Wanhoop, de": {
+    "translation": "despair",
+    "example": "Ik zie wanhoop in de ogen van de mensen die in deze fabriek werken."
+  },
+  "Voorkomen": {
+    "translation": "to occur, to prevent",
+    "example": "Lieutenant, je kunt niet voorkomen wat er staat te gebeuren. Dit kan voorkomen dat de trein te laat is (This can prevent the train from being late). Het kan voorkomen dat de trein te laat is (It may happen that the train is late)."
+  },
+  "Lusten": {
+    "translation": "to like",
+    "example": "Ik zou wel een glas wijn lusten."
+  },
+  "Breed": {
+    "translation": "wide",
+    "example": "De weg is vijf meter breed."
+  },
+  "Hak, de": {
+    "translation": "heel",
+    "example": "Schoenen met hakken worden uit de productie genomen."
+  },
+  "Bladeren": {
+    "translation": "to glance through",
+    "example": "Hij bladerde door het fotoalbum. Ze bladerde door het magazine in de wachtkamer."
+  },
+  "Kaars, de": {
+    "translation": "candle",
+    "example": "Elke dag branden we een kaars en hopen op het beste."
+  },
+  "Opluchting, de": {
+    "translation": "relief",
+    "example": "Tot mijn opluchting waren we nu blijkbaar voorbij met de gevaarlijke weg."
+  },
+  "Zolder, de": {
+    "translation": "loft",
+    "example": "Ik heb een kamertje op zolder."
+  },
+  "Verdomd": {
+    "translation": "damned",
+    "example": "War verdomde leuk dat je er weer bent!"
+  },
+  "Loslaten": {
+    "translation": "to let go, to release",
+    "example": "Na de inspectie laten de agenten ons los."
+  },
+  "Begroeten": {
+    "translation": "to greet",
+    "example": "Ze heeft ons begroet met een taart, water en sap."
+  },
+  "Piepen": {
+    "translation": "to squeak",
+    "example": "De deur piepte een beetje."
+  },
+  "Verrichten": {
+    "translation": "to perform",
+    "example": "Het kan alleen gebeuren als er iemand komt en een wonder verricht. De arts verrichtte een onderzoek. Er worden werkzaamheden verricht aan de weg."
+  },
+  "Vast": {
+    "translation": "fixed, certain",
+    "example": "Hij heeft een vast inkomen. Er zit een kat vast in een doos met iets dodelijks."
+  },
+  "Verheffen zich": {
+    "translation": "to rise",
+    "example": "Ze verheft zijn geest, zoals niemand anders dat kan."
+  },
+  "Aangeven": {
+    "translation": "indicate",
+    "example": "De brief geeft aan wanneer ik moet komen. U kunt dit bij boeking aangeven en contant betalen bij aankomst."
+  },
+  "Lap, de": {
+    "translation": "rag",
+    "example": "Veeg de reiniger weg met een schone doek of lap."
+  },
+  "Voetstap, de": {
+    "translation": "footstep",
+    "example": "Eindelijk horen we voetstappen naderen."
+  },
+  "Uitsteken": {
+    "translation": "to hold out, to stand out",
+    "example": "Let op dat er geen delen uitsteken, dat beschadigt te snel."
+  },
+  "Driftig": {
+    "translation": "angry, short-tempered",
+    "example": "Hij reageerde driftig. Een driftig kind."
+  },
+  "Venster, het": {
+    "translation": "window",
+    "example": "Ik begrijp waarom huizen hier zulke kleine vensters hebben."
+  },
+  "Verbijsteren": {
+    "translation": "to bewilder",
+    "example": "Het nieuws verbijsterde hem. Ik was verbijsterd door de uitslag."
+  },
+  "Eigenaardig": {
+    "translation": "peculiar, odd",
+    "example": "Wij vroegen ons af of jullie iets eigenaardig gezien hadden vanavond. Hij gedroeg zich eigenaardig."
+  },
+  "Spier, de": {
+    "translation": "muscle",
+    "example": "Ik ga naar de sportschool om mijn spieren te trainen."
+  },
+  "Opbellen": {
+    "translation": "to call up",
+    "example": "Hij belde de dokter op."
+  },
+  "Gevel, de": {
+    "translation": "facade",
+    "example": "De gevel van het huis werd gerenoveerd. De gevel stond in de steigers."
+  },
+  "Schelden": {
+    "translation": "to curse",
+    "example": "Hij begon te schelden toen hij zijn sleutels niet kon vinden. De man stond luid te schelden op straat. Hij scheldt altijd als hij gefrustreerd raakt."
+  },
+  "Bot, het": {
+    "translation": "bone",
+    "example": "Al zijn botten deden hem zeer. Een hond speelt met een bot."
+  },
+  "Straal, de": {
+    "translation": "beam",
+    "example": "U had niet moeten proberen mij uit de straal te redden. Ik weet waar de straal zal raken. De lamp heeft een brede straal en geeft een koudwit licht."
+  },
+  "Grauw": {
+    "translation": "grey, cold, unwelcoming, bleak",
+    "example": "De stad zag er grauw uit in de regen. Een grauwe sfeer. Een grauw gezicht."
   }
 }
