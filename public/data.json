@@ -792,7 +792,7 @@
     "example": "Deze barbell is niet geschikt voor het heffen van veel gewicht."
   },
   "Wekken": {
-    "translation": "wake up",
+    "translation": "wake up, somebody else",
     "example": "Ze slaapt maar alleen ik kan haar wekken."
   },
   "Strelen": {
@@ -1204,8 +1204,8 @@
     "example": "Mijn grootvader smeekt haar om beneden te komen."
   },
   "Evenmin": {
-    "translation": "neither",
-    "example": "En ik kon evenmin iets doen."
+    "translation": "neither, also no",
+    "example": "En ik kon evenmin iets doen. Ik heb hem niet gezien, en zij evenmin. Hij begrijpt het niet, zij evenmin."
   },
   "Tasten": {
     "translation": "to grasp, to scan",
@@ -1741,7 +1741,7 @@
   },
   "Overvallen": {
     "translation": "to surprise, to raid, to overtake, to assault",
-    "example": "Hij probeert naar huis te gaan, maar een storm overvalt hem. U begon met banken te overvallen."
+    "example": "Hij probeert naar huis te gaan, maar een storm overvalt hem. U begon met banken te overvallen. De winkel werd ’s nachts overvallen. Hij werd overvallen door angst."
   },
   "Langzamerhand": {
     "translation": "gradually",
@@ -1788,7 +1788,7 @@
     "example": "De apparatuur is versleten maar nog steeds bruikbaar. (bruikbaar === usable)"
   },
   "Ontroeren": {
-    "translation": "move emotionally, formeel",
+    "translation": "move emotionally, F",
     "example": "Ik was ontroerd door het gebaar. Het verhaal ontroerde me diep."
   },
   "Amuseren zich": {
@@ -1820,7 +1820,7 @@
     "example": "Met wat ik gedaan heb, ga ik naar de hel."
   },
   "Lichten": {
-    "translation": "to lift",
+    "translation": "to lift, F",
     "example": "Ze lichtte het kind voorzichtig op."
   },
   "Irriteren": {
@@ -1998,5 +1998,165 @@
   "Grauw": {
     "translation": "grey, cold, unwelcoming, bleak",
     "example": "De stad zag er grauw uit in de regen. Een grauwe sfeer. Een grauw gezicht."
+  },
+  "Vluchtig": {
+    "translation": "quick, brief",
+    "example": "Een vluchtige gedachte. Een vluchtig moment. Ik wierp een vluchtige blik. We spraken elkaar vluchtig."
+  },
+  "Persen": {
+    "translation": "to press",
+    "example": "Ik perste mijn lippen op zijn sterke, lieve hand. De machine perst het afval samen. Hij perste de citroen uit. Ze perste er nog een glimlach uit. Hij perste de woorden eruit."
+  },
+  "Plechtig": {
+    "translation": "solemn, formal, dignified",
+    "example": "Hij sprak met een plechtige stem."
+  },
+  "Ontgaan": {
+    "translation": "to escape",
+    "example": "Het detail ontging mij. De grap ontging haar. Niets in huis ontging haar."
+  },
+  "Intens": {
+    "translation": "intense",
+    "example": "De kou zou zo intens zijn dat je het kunt horen."
+  },
+  "Vergeven": {
+    "translation": "to forgive",
+    "example": "Zou je mij kunnen vergeven?"
+  },
+  "Tamelijk": {
+    "translation": "rather",
+    "example": "Het is tamelijk koud vandaag. Hij was tamelijk tevreden met het resultaat. Dat klinkt tamelijk logisch."
+  },
+  "Troost, de": {
+    "translation": "comfort",
+    "example": "Het spijt me dat ik u niet meer troost kan bieden."
+  },
+  "Het staat me niet goed": {
+    "translation": "it doesn’t suit me",
+    "example": "Ik heb geen baard, omdat het me niet goed staat."
+  },
+  "Ontwaken": {
+    "translation": "to wake up, yourself",
+    "example": "Toen ik ontwaakte zag ik dat het pas half acht was."
+  },
+  "Verbreken": {
+    "translation": "to break up/off, F",
+    "example": "Hij verbrak de belofte. Het contract werd verbroken."
+  },
+  "Wringen": {
+    "translation": "to worm, F",
+    "example": "Hij wrong het vocht uit de doek. Ze wrong de handdoek uit na het wassen. Het wringt om dat te accepteren (=== it hurts to accept that)."
+  },
+  "Grommen": {
+    "translation": "to growl",
+    "example": "Hij gromde iets onverstaanbaars. “Laat me met rust,” gromde hij."
+  },
+  "Onverschillig": {
+    "translation": "indifferent",
+    "example": "Hij reageerde onverschillig. Het liet haar volkomen onverschillig."
+  },
+  "Nest, het": {
+    "translation": "nest",
+    "example": "Het vogeltje blijft een tijdje in het nest."
+  },
+  "Wagen zich": {
+    "translation": "to dare to try something, to risk, F",
+    "example": "Hij waagde zich op glad ijs. Niemand waagde zich in de donkere kelder."
+  },
+  "Kier": {
+    "translation": "small opening between two things, F",
+    "example": "Zachtjes opent ze het raam op een kier. Er zat een kier in de deur waardoor de wind naar binnen kwam."
+  },
+  "Lopen/komen/gaan/doen … toe": {
+    "translation": "towards",
+    "example": "Hij liep naar me toe. Ze kwam op me toe."
+  },
+  "Toe": {
+    "translation": "with it",
+    "example": "Doe er nog wat suiker toe."
+  },
+  "Wal, de": {
+    "translation": "quay, shore",
+    "example": "We lopen uit op de wal."
+  },
+  "Voet aan wal zetten": {
+    "translation": "to set foot ashore",
+    "example": "We gaan voet aan wal zetten."
+  },
+  "Geleiden": {
+    "translation": "to guide, to lead, F",
+    "example": "De agent geleidde de gevangene."
+  },
+  "Ongerust": {
+    "translation": "anxious",
+    "example": "Ik ben ongerust over haar gezondheid. Ze was zichtbaar ongerust. Hij keek ongerust om zich heen."
+  },
+  "Uitstrekken": {
+    "translation": "to stretch",
+    "example": "Hij strekte zijn armen uit. De vergadering werd uitgestrekt tot laat in de avond. Het project werd kunstmatig uitgestrekt."
+  },
+  "Stiekem": {
+    "translation": "secret, secretly",
+    "example": "Ik deed het stiekem toen niemand keek. Stiekem weet ik dat ze trots op me is. De waarheid is, dat zij hier al stiekem jaren leefden."
+  },
+  "[aan]Spannen zich": {
+    "translation": "to tense, to tighten",
+    "example": "Tijdens het trainen in de sportschool spannen mijn spieren zich aan. Hij spande zich in om kalm te blijven."
+  },
+  "Tegelijkertijd": {
+    "translation": "at the same time",
+    "example": "Het vuurwerk en het applaus kwamen tegelijkertijd. Ze spraken tegelijkertijd."
+  },
+  "Hok, het": {
+    "translation": "shed, small room",
+    "example": "Ik werk in een klein hok. De kippen wonen in het hok."
+  },
+  "Erachter": {
+    "translation": "behind it",
+    "example": "In de kamer stond een tafel en enkele stoelen erachter."
+  },
+  "Erachter komen": {
+    "translation": "to find out",
+    "example": "Hoe kom je erachter of dat waar is?"
+  },
+  "Knopen": {
+    "translation": "to knot, to tie",
+    "example": "Je kan je eigen hemd knopen. De jongeman kon zijn das niet knopen."
+  },
+  "Druipen": {
+    "translation": "to drip",
+    "example": "Het water druipt van het dak. Zijn neus druipt. Hij druipt van het zelfvertrouwen."
+  },
+  "Nietwaar": {
+    "translation": "isn’t it, F, OW",
+    "example": "Dat heb je goed gedaan, nietwaar?"
+  },
+  "Spijten": {
+    "translation": "to regret",
+    "example": "Na ons gesprek voelde ik alleen maar spijt. Met spijt delen wij mee dat de wedstrijd is afgezegd."
+  },
+  "Vrijen": {
+    "translation": "to make love, F",
+    "example": "Ze waren aan het vrijen. Een scène waarin het stel vrijt."
+  },
+  "Horizon, de": {
+    "translation": "horizon",
+    "example": "De zon is achter de horizon verdwenen."
+  },
+  "Zenuw, de": {
+    "translation": "nerve",
+    "example": "Wel kan er tijdens de punctie soms een zenuw geraakt worden."
+  },
+  "Geheimzinnig": {
+    "translation": "mysterious",
+    "example": "Hij keek haar geheimzinnig aan. Een geheimzinnige glimlach. Ze deed erg geheimzinnig over haar plannen (Ze deed erg geheimzinnig === she was very secretive)."
+  },
+  "Volmaakt": {
+    "translation": "perfect, OW",
+    "example": "Het was een volmaakte dag. Zijn uitvoering was volmaakt."
+  },
+  "Schuur, de": {
+    "translation": "barn",
+    "example": "Toen hadden we paarden en ze woonden in de schuur."
   }
 }

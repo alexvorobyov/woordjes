@@ -16,4 +16,4 @@ for (const line of content) {
   }
 }
 
-writeFileSync('../woordjes/public/data.json', JSON.stringify(parsedData, null, 2));
+writeFileSync('../public/data.json', JSON.stringify(parsedData, null, 2));
