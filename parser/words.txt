@@ -312,6 +312,8 @@ De tijd dringt (the time is running out): Ik ga me haasten, de tijd dringt.
 Kruipen (to crawl): De spin kroop over de muur.
 
 Gebaar, het (gesture): Laten we hopen dat dit niet alleen een symbolisch gebaar is.
+
+Gebaren (to gesture): Ik gebaarde dat hij mij moest volgen.
 3 Oct 2025
 Verdrietig, bedroefd (sad): Het meisje was verdrietig omdat haar ijsje viel. Hij was diep bedroefd na het overlijden van zijn grootmoeder.
 	Verdrietig = gewoon, alledaags verdriet.
@@ -966,7 +968,7 @@ Bidden (to pray): Je moet in de moskee bidden.
 
 Wonderlijke (wonderful): Maak lange reizen op je eigen paard en beleef wonderlijke avonturen.
 
-Betreden (to enter): U betreedt het huis via een ijzeren hek. (hek === gate (in this case))
+Betreden (to enter, F): U betreedt het huis via een ijzeren hek. (hek === gate (in this case))
 
 Teleurstellen (to disappoint): Ik vrees dat ik je moet teleurstellen.
 9 Dec 2025
@@ -1181,10 +1183,114 @@ Wringen (to worm, F): Hij wrong het vocht uit de doek. Ze wrong de handdoek uit 
 
 
 
+14 Feb 2026
+Kachel, de (stove, heater): De kachel kon niet aan omdat we geen petroleum hadden.
+
+Verzinken |verzonk, heb verzonken| (to sink): Hij verzonk tot zijn knieën in de modder. Ze verzonk in gedachten. Hij verzonk in wanhoop.
+
+Bloeden |bloedde, heb gebloed| (to bleed): Hij viel en bloedde uit zijn neus. 
+
+Tik, de (tap): Nadat hij een stevige tik had gehoord, deed hij open.
+
+Rillen |rilde, heb gerild| (to shiver): Hij rilde van de griep.  
+13 Feb 2026
+Verontwaardigd (outraged): Het publiek was verontwaardigd over de beslissing.
+
+Krabben (to scratch): Ik krabde aan mijn hand nadat ik door een mug was gebeten.
+
+Zweren (to swear): Ik zweer dat ik een buitenaards wezen heb gezien.
+
+Oprapen (to pick up from the ground): Hij raapte de sleutels op. Kun je dat papiertje even oprapen? Ze raapte haar moed weer op. (figuurlijk) 
+12 Feb 2026
+Opendoen (to open): Er werd aan de poort gebeld en hij ging opendoen.
+
+Koperen (copper): Het koperen plaatje. 
+
+Fraai (beautiful, F): Wat een fraai uitzicht. Dat is fraai! (= dat is nou niet best…)
+11 Feb 2026
+Blinken (to shine): De vloer blonk na het poetsen. Hij blinkt uit in wiskunde.
+
+Wenken (to beckon, make a gesture to summon): Hij wenkt me om naar hem te komen. 
+
+Kruisen (to cross, to meet somebody): De wegen kruisen elkaar hier. De lijnen kruisen elkaar op het diagram. Ze kruisten elkaar op de trap.
+
+Razen (to race, to rage): De trein raasde voorbij. Hij raasde tegen zijn collega’s. 
+
+Hijzelf (himself, nadruk): Hijzelf heeft dat gezegd. Hijzelf wist er niets van.
+31 Jan 2026 - 10 Feb 2026
+We gingen naar Andorra om te skiën. Ik hield ervan, omdat er veel sneeuw lag en het weer mooi was. Ik denk dat ik elke keer een betere skiër word. Ook dit keer was het geen uitzondering: ik voel me zelfverzekerd op de piste en ik ben niet bang om rode en zwarte pistes te rijden. 
+30 Jan 2026
+Wankelen (to stagger, to become unsure about): Het kind wankelde op zijn eerste stappen. Het vertrouwen wankelt. 
+
+Dof (dull): Zij staart met doffe ogen naar de muur.
+
+Krijsen (to scream): Het kind begon te krijsen. 
+
+Snikken (to sob, cry noisily): Ze zat te snikken in een hoek. Hij probeerde zijn snikken te onderdrukken. 
+
+Erom (around it, about it): Het gaat erom in contact te komen met wie je bent. Klaas lacht erom.
+
+Terecht (correct, deserved): Hij was de terechte winnaar. 
+29 Jan 2026
+Plagen (to tease): Deze gedachte blijft me plagen. Hij plaagt zijn zus voortdurend.
+
+Gretig (eager): Hij las gretig verder. Ze luisterde gretig naar het verhaal. De kinderen aten gretig.
+
+Mat, de (mat): We lieten onze schoenen achter op de mat.
+
+Vingertop, de (fingertip): Ik raak voorzichtig de viool aan met mijn vingertop.
+
+Afschuwelijk (horrible): Het eten smaakte afschuwelijk. Hij vond het afschuwelijk dat ze loog. Een afschuwelijk ongeluk.
+	walgelijk = lichamelijke/zintuiglijke afkeer
+	afschuwelijk = morele/emotionele afkeer of schok
+28 Jan 2026
+Treurig (sad): Ze keek treurig uit het raam. Het was een treurige dag. Het is treurig wat daar gebeurt.
+	verdrietig = gevoel van een persoon
+	treurig = karakter van een situatie of constatering
+
+Knielen (to kneel): Je knielt voor het altaar en bidt de hele nacht. Het lijkt alsof hij in de sneeuw knielt.
+
+Voorbijgaan (to pass): Hij ging voorbij aan het huis. De pijn ging voorbij.
+
+Scène, de (scene): Die scène was erg spannend. Dit is mijn favoriete scène uit de film. Ze maakte een scène in het café.
+
+Verdiepen zich (to go into, to be caught up): Hij verdiepte zich verder in muziektheorie. Ze verdiepte zich weer in de krant.
+27 Jan 2026
+Onvermijdelijk (inevitable): Ik ben bang voor de onvermijdelijke dood.
+
+Verheugen zich (to look forward): Ik verheug me op het bezoek aan het pretpark.
+
+Nieuwsgierigheid (curiosity): Nieuwsgierigheid bracht de kat om. Apenheul heeft ons gewaarschuwd over de nieuwsgierigheid en kracht van orangoetans.
+
+Oneindig (infinite): Er is een oneindige hoeveelheid nummers. Hij zag het met het gevoel van oneindige opluchting. 
+
+Genot (delight): Het eten was een genot. Hij zocht genot in de kleine dingen van het leven. 
+26 Jan 2026
+Kaak, de (jaw): Hij perste zijn kaken op elkaar. 
+
+Ketting, de (chain): De fiets kan alleen rijden dankzij de ketting.
+
+Onttrekken zich (to withdraw, F): Hij onttrok zich aan de discussie. Ze onttrok zich aan de verantwoordelijkheid.
+
+Overheen (across, over): Je kunt erop stappen en de kajak er overheen trekken. De brug gaat over de rivier heen. Hij sprong over de sloot heen.
+
+Minnaar (lover): Ze had een minnaar naast haar echtgenoot. De roman gaat over de verhouding tussen de vrouw en haar minnaar.
+25 Jan 2026
+Ik nam een pauze van het studeren. 
 24 Jan 2026
 Grommen (to growl): Hij gromde iets onverstaanbaars. “Laat me met rust,” gromde hij.
 
 Onverschillig (indifferent): Hij reageerde onverschillig. Het liet haar volkomen onverschillig. 
+
+Drempel, de (bar, threshold, doorstep): Ik sta op de drempel te wachten. 
+
+Smeren (to spread, to butter): Ik zit een boterham te smeren. Hij smeerde zonnebrand op zijn huid.
+smeren = substantie verdelen, vaak plakkerig / vettig
+spreiden = iets verdelen, neutraal, kan abstract zijn
+
+Omhelzen (to embrace, to hug): Hij werd omhelst door zijn ouders. We omhelzen elkaar als begroeting. Wanneer je me omhelst... dan doet mijn hart pijn.
+
+Uiteindelijk (finally, eventually): Wie de uiteindelijke beslissing heeft genomen weet ik niet.
 23 Jan 2026
 Nest, het (nest): Het vogeltje blijft een tijdje in het nest.
 

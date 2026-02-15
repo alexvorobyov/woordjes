@@ -4,6 +4,8 @@ import classnames from "classnames";
 
 import styles from "./Woordjes.module.css";
 
+const WORDS_PER_GROUP = 50;
+
 interface DataItem {
   word: string;
   translation: string;
@@ -12,9 +14,10 @@ interface DataItem {
 
 interface GameState {
   answerGiven?: DataItem | null;
-  randomWords: DataItem[];
-  shuffledWords: DataItem[];
-  shuffledWordsIndex: number;
+  randomAnswers: DataItem[];
+  groups: DataItem[][];
+  currentGroupIndex: number;
+  currentIndexInGroup: number;
   stats: { correct: number; total: number };
 }
 
@@ -57,17 +60,44 @@ function getFiveRandomItems(words: DataItem[]): DataItem[] {
 
 function getEmptyGameState(): GameState {
   return {
-    shuffledWords: [],
-    shuffledWordsIndex: -1,
-    randomWords: [],
+    groups: [],
+    currentGroupIndex: -1,
+    currentIndexInGroup: 0,
+    randomAnswers: [],
     stats: { correct: 0, total: 0 },
     answerGiven: null,
   };
 }
 
-function getRandomWords(shuffled: DataItem[], index: number): DataItem[] {
-  const currentWord = shuffled[index];
+function getRandomAnswers(
+  shuffled: DataItem[],
+  currentWord: DataItem,
+): DataItem[] {
   return getShuffledWords(getFiveRandomItems(shuffled).concat(currentWord));
+}
+
+function getWordsGroups(words: DataItem[]): DataItem[][] {
+  const groups: DataItem[][] = [];
+  let currentGroup: DataItem[] = [];
+  let counter = 0;
+  for (let i = 0; i < words.length; i++) {
+    const word = words[i];
+    if (counter > WORDS_PER_GROUP) {
+      currentGroup = [];
+      groups.push(currentGroup);
+      counter = 0;
+    } else {
+      currentGroup.push(word);
+    }
+    counter++;
+  }
+  if (currentGroup.length) {
+    groups.push(currentGroup);
+  }
+  for (let i = 0; i < groups.length; i++) {
+    groups[i] = getShuffledWords(groups[i]);
+  }
+  return groups;
 }
 
 export default function Woordjes() {
@@ -75,7 +105,9 @@ export default function Woordjes() {
   const [gameState, setGameState] = useState<GameState>(getEmptyGameState());
 
   const currentWord =
-    gameState.shuffledWords[gameState.shuffledWordsIndex] || null;
+    gameState.groups[gameState.currentGroupIndex]?.[
+      gameState.currentIndexInGroup
+    ] || null;
 
   useEffect(() => {
     fetch("/data.json")
@@ -85,12 +117,14 @@ export default function Woordjes() {
       });
   }, []);
 
-  const resetGame = () => {
-    const newShuffled = getShuffledWords(words);
+  const resetGame = (groupIndexToSet?: number) => {
+    const groups = getWordsGroups(words);
+    const currentGroupIndex = groupIndexToSet || 0;
     setGameState({
-      shuffledWords: newShuffled,
-      shuffledWordsIndex: 0,
-      randomWords: getRandomWords(newShuffled, 0),
+      groups: groups,
+      currentGroupIndex: currentGroupIndex,
+      currentIndexInGroup: 0,
+      randomAnswers: getRandomAnswers(words, groups[currentGroupIndex][0]),
       stats: { correct: 0, total: 0 },
     });
   };
@@ -111,15 +145,16 @@ export default function Woordjes() {
   };
 
   const nextWord = () => {
-    let indexToSet = gameState.shuffledWordsIndex + 1;
-    if (indexToSet >= gameState.shuffledWords.length) {
+    const currentGroup = gameState.groups[gameState.currentGroupIndex];
+    let indexToSet = gameState.currentIndexInGroup + 1;
+    if (indexToSet >= currentGroup.length) {
       indexToSet = 0;
     }
 
     setGameState((currentState) => ({
       ...currentState,
-      shuffledWordsIndex: indexToSet,
-      randomWords: getRandomWords(gameState.shuffledWords, indexToSet),
+      currentIndexInGroup: indexToSet,
+      randomAnswers: getRandomAnswers(words, currentGroup[indexToSet]),
       stats: stats,
       answerGiven: null,
     }));
@@ -136,22 +171,35 @@ export default function Woordjes() {
   const stats = gameState.stats;
   return (
     <>
-      <button className={styles.startAgain} onClick={() => resetGame()}>
-        Start again
-      </button>
+      <div className={styles.topMenu}>
+        <button className={styles.startAgain} onClick={() => resetGame()}>
+          Start again
+        </button>
+        <select
+          className={styles.groupSelector}
+          value={gameState.currentGroupIndex}
+          onChange={(e) => resetGame(parseInt(e.target.value))}
+        >
+          {gameState.groups.map((group, index) => (
+            <option key={index} value={index}>
+              {`${WORDS_PER_GROUP * index + 1}-${WORDS_PER_GROUP * (index + 1)}`}
+            </option>
+          ))}
+        </select>
+      </div>
       <div className={styles.stats}>
         {stats.correct}/{stats.total}
       </div>
       <div className={styles.gameContainer}>
         <div className={styles.currentWord}>{currentWord.word}</div>
         <div className={styles.buttonsContainer}>
-          {gameState.randomWords.map((word, index) => (
+          {gameState.randomAnswers.map((word, index) => (
             <button
               className={classnames(
                 styles.button,
                 gameState.answerGiven &&
                   currentWord.word === word.word &&
-                  styles.correct
+                  styles.correct,
               )}
               disabled={Boolean(gameState.answerGiven)}
               key={index}
