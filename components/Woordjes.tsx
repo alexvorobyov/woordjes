@@ -82,12 +82,11 @@ function getWordsGroups(words: DataItem[]): DataItem[][] {
   let counter = 0;
   for (let i = 0; i < words.length; i++) {
     const word = words[i];
-    if (counter > WORDS_PER_GROUP) {
-      currentGroup = [];
-      groups.push(currentGroup);
+    currentGroup.push(word);
+    if (counter >= WORDS_PER_GROUP) {
+      groups.push([...currentGroup]);
       counter = 0;
-    } else {
-      currentGroup.push(word);
+      currentGroup = [];
     }
     counter++;
   }
