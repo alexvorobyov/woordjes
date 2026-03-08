@@ -22,7 +22,7 @@ Lastige (difficult, tough): Het is een lastige stad, maar alles is daar mogelijk
 
 Vooral (especially): en dit is vooral belangrijk voor ouderen.
 
-Betrekken (to involve): we betrekken mensen in het maken van de plannen.
+Betrekken |betrok, heb betrokken| (to involve): we betrekken mensen in het maken van de plannen.
 25 Aug 2025
 
 Uiteraard (of course, naturally): uiteraard hebben we in sportief opzicht veel aan hem te danken.
@@ -63,7 +63,7 @@ Nogal (rather, quite): Het is nogal raar.
 
 Ernstig (serious): Hij nam zijn baan als laborant 'n beetje te ernstig.
 
-Richten zich (to focus): Hij richt zich vanaf nu op zijn carrière.
+Richten zich |richtte, heb gericht| (to focus): Hij richt zich vanaf nu op zijn carrière.
 28 Aug 2025
 Nog eens geen tijd had. Ik verminderde de hoeveelheid nieuwe woordjes in Anki van 20 tot 10. 20 was te veel.
 29 Aug 2025
@@ -313,7 +313,7 @@ Kruipen (to crawl): De spin kroop over de muur.
 
 Gebaar, het (gesture): Laten we hopen dat dit niet alleen een symbolisch gebaar is.
 
-Gebaren (to gesture): Ik gebaarde dat hij mij moest volgen.
+Gebaren |gebaarde, heb gebaard| (to gesture): Ik gebaarde dat hij mij moest volgen. Ik heb hem gebaard om naar me te komen.
 3 Oct 2025
 Verdrietig, bedroefd (sad): Het meisje was verdrietig omdat haar ijsje viel. Hij was diep bedroefd na het overlijden van zijn grootmoeder.
 	Verdrietig = gewoon, alledaags verdriet.
@@ -417,7 +417,7 @@ Daarbij (with it): En als jij mijn vriend bent, help je mij daarbij.
 
 Rollen (to roll): Tranen rolden over haar wangen.
 
-Knijpen (to pinch): Hij knijpt zijn neus dicht als hij drinkt.
+Knijpen |kneep, heb geknepen| (to pinch): Hij knijpt zijn neus dicht als hij drinkt.
 
 Afscheid, het (farewell, goodbye): De huisarts neemt morgenmiddag afscheid van patiënten en relaties. 
 
@@ -425,6 +425,9 @@ Dronken (drunk): Er zit een dronken man aan de bar.
 14 Oct 2025
 
 Wrijven (to rub): Hij staat er al jaren, en je wrijft hem voor geluk.
+	wrijven = krachtiger, herhaald, meer druk
+strijken = glad, zacht, vloeiend
+Je kunt je handen wrijven, maar je haar strijken.
 
 Uitzien (to look, look forward): Ik weet dat hij er zo niet uitzag tijdens zijn leven. Dank u voor uw aandacht en ik zie uit naar uw commentaar.
 15 Oct 2025 
@@ -515,7 +518,7 @@ Weggaan (leave): Ik ben daar een paar jaar terug weggegaan.
 21 Oct 2025
 Allang (a long time ago): Je moest allang slapen.
 
-Stralen (to shine, radiate, emit): Haar ogen straalden en haar mond lachte. 
+Stralen |straalde, heb gestraald| (to shine, radiate, emit): Haar ogen straalden en haar mond lachte. 
 
 Wenden zich (ouderwets, to turn): Ik wend me tot de cameraman. 
 
@@ -557,7 +560,7 @@ Verkiezingen!
 
 Schuin (oblique): Zet de borstel schuin op het vlak tussen tandvlees en tanden.
 
-Slepen (to drag): Ik ben al twee dagen bezig hun lichamen hierheen te slepen.
+Slepen |sleepte, heb gesleept| (to drag): Ik ben al twee dagen bezig hun lichamen hierheen te slepen.
 
 Vuist, de (fist): Ze knijpt haar handen tot vuisten.
 
@@ -567,7 +570,7 @@ Tak, de (branch): We halen de takken van de weg en gaan naar huis.
 
 Laken, het (sheet): Ik verstopte me onmiddellijk onder de lakens. (verstoppen == hide)
 30 Oct 2025
-Ontsnappen (to escape): Ik denk dat er een paar gevangenen zijn ontsnapt.
+Ontsnappen |ontsnapte, ben ontsnapt| (to escape): Ik denk dat er een paar gevangenen zijn ontsnapt.
 
 Hijgen (to gasp, to pant): Hij hijgde een beetje.
 
@@ -655,7 +658,7 @@ Stijf (stiff): Charlie kwam overeind en wreef over zijn stijve knieën.
 
 Duim, de (thumb), wijsvinger, de (index finger): Ik hield het tussen mijn duim en wijsvinger.
 
-Strijken (to brush, to strike, to iron, to smooth): Ze streek zelfs haar sokken.
+Strijken |streek, heb gestreken| (to brush, to strike, to iron, to smooth): Ze streek zelfs haar sokken. Ik moet mijn overhemd nog strijken. Ze streek door zijn haar.
 
 Ademen (to breath): Ze ademde diep en hield de adem in.
 
@@ -723,7 +726,9 @@ Hek, het (fence): Dwars door een bos liep een hek.
 Genoegen, het (pleasure): Het is een genoegen kennis met u te maken. 
 Tot mijn genoegen (to my pleasure): Ik zie tot mijn genoegen dat ik precies op tijd ben.
 
-Verwonderen (to surprise): Ik verwonder mij altijd bij deze voorstellingen.
+Verwonderen |verwonderde, heb verwonderd| (to surprise): Ik verwonder mij altijd bij deze voorstellingen.
+	verwonderen = zachte, vaak positieve verbazing
+verrassen = onverwacht effect, sterker en plots
 10 Nov 2025
 Betrappen (to catch): Dezelfde dag betrapte dezelfde politieagent de verdachte nog eens.
 
@@ -869,7 +874,7 @@ Peinzen (to ponder, to think about something carefully): Na het ongeluk dacht ik
 
 Sluipen (to sneak): Hij sluipt in de tuin en eet de appel zonder toestemming.
 
-Spotten (to joke, to mock): Hij durfde het niet aan met de man van de belasting te spotten.
+Spotten |spotte, heb gespot| (to joke, to mock): Hij durfde het niet aan met de man van de belasting te spotten.
 1 Dec 2025
 Kreunen (to groan, to make a sound conveying pain): Hij kreunt van de pijn. 
 
@@ -939,7 +944,7 @@ Vlam, de (flame): De vlammen slaan uit de woning.
 Gemeen (mean): Niemand begreep waarom de student zoveel gemene mails naar zijn familieleden stuurde.
 Gemeen hebben (in common): Ze hadden niets met mij gemeen. Ik had meer gemeen met jou dan met mijn eigen bloed.
 
-Sissen (to hiss): ‘Stil’, siste ze zacht.
+Sissen |siste, heb gesist| (to hiss): ‘Stil’, siste ze zacht.
 
 Verwarring, de (confusion): De arrestatie van een ouder brengt angst, verwarring en paniek. Er lijkt veel verwarring te bestaan over wat er is gebeurd.
 
@@ -985,7 +990,7 @@ Dwalen (to wander): De volgende dag dwaalden we samen door ons geboortestad.
 
 Zoiets (something): Het was onvoorstelbaar dat vader zoiets deed.
 
-Gloeien (to glow): Ik eet liever iets dat niet in donker gloeit.
+Gloeien |gloeide, heb gegloeid| (to glow): Ik eet liever iets dat niet in donker gloeit.
 10 Dec 2025
 Smijten (to throw, to fling): Hij smijt de peer tegen de muur.
 gooien = standaard, altijd goed.
@@ -1004,7 +1009,7 @@ Schoot, de (lap): Ik klom op zijn schoot en gaf hem een harde knuffel.
 
 Zeuren (to whine, to nag): De kinderen zeuren om snoep.
 
-Snuiven (to sniff): Hij snuift de lucht op.
+Snuiven |snoof, heb gesnoven| (to sniff): Hij snuift de lucht op.
 11 Dec 2025
 Ik heb een website ontwikkeld om me te helpen met het leren van nieuwe woordjes nieuwe woordjes te leren. Het lijkt een beetje op Duolingo maar natuurlijk is er niet zoveel te doen. Het werkt zo: je ziet een woordje in het Nederlands en zes opties met vertalingen. Een van de opties is juist. Je moet de juiste vertaling kiezen. Ik heb woorden gebruikt die ik al in AnkiDroid geleerd heb. Met deze website kan ik meer vaak de woordjes vertalen de woordjes vaker oefenen; dat in AnkiDroid niet zo handig is dat kan in AnkiDroid niet zo handig.
 Ik heb het gedaan omdat ik merkte op dat ik veel tijd verlies aan het doomscrollen van Reddit of Twitter: ik wil in plaats daarvan de taal leren. Misschien is het niet het meest effectief manier de meest effectieve manier om het Nederaldns te leren, maar het is beter dan niks. 
@@ -1098,6 +1103,7 @@ breed = afmeting, meetbaar
 
 
 Hak, de (heel): Schoenen met hakken worden uit de productie genomen.
+
 Bladeren (to glance through): Hij bladerde door het fotoalbum. Ze bladerde door het magazine in de wachtkamer.
 9 Jan 2026
 Kaars, de (candle): Elke dag branden we een kaars en hopen op het beste.
@@ -1122,7 +1128,7 @@ Verrichten (to perform): Het kan alleen gebeuren als er iemand komt en een wonde
 Vast (probably): Hij is vast al vertrokken. Ze zal vast wel moe zijn. Je hebt vast honger na zo’n lange dag. Dat was vast geen toeval. Ze woont hier vast al jaren.
 Vast (fixed, certain): Hij heeft een vast inkomen. Er zit een kat vast in een doos met iets dodelijks.
 
-Verheffen zich (to rise): Ze verheft zijn geest, zoals niemand anders dat kan. 
+Verheffen zich |verhief, verheven| (to rise): Ze verheft zijn geest, zoals niemand anders dat kan. 
 
 Aangeven (indicate): De brief geeft aan wanneer ik moet komen. U kunt dit bij boeking aangeven en contant betalen bij aankomst.
 
@@ -1180,172 +1186,6 @@ Ontwaken (to wake up, yourself): Toen ik ontwaakte zag ik dat het pas half acht 
 Verbreken (to break up/off, F): Hij verbrak de belofte. Het contract werd verbroken.
 
 Wringen (to worm, F): Hij wrong het vocht uit de doek. Ze wrong de handdoek uit na het wassen. Het wringt om dat te accepteren (=== it hurts to accept that).
-
-
-
-14 Feb 2026
-Kachel, de (stove, heater): De kachel kon niet aan omdat we geen petroleum hadden.
-
-Verzinken |verzonk, heb verzonken| (to sink): Hij verzonk tot zijn knieën in de modder. Ze verzonk in gedachten. Hij verzonk in wanhoop.
-
-Bloeden |bloedde, heb gebloed| (to bleed): Hij viel en bloedde uit zijn neus. 
-
-Tik, de (tap): Nadat hij een stevige tik had gehoord, deed hij open.
-
-Rillen |rilde, heb gerild| (to shiver): Hij rilde van de griep.  
-13 Feb 2026
-Verontwaardigd (outraged): Het publiek was verontwaardigd over de beslissing.
-
-Krabben (to scratch): Ik krabde aan mijn hand nadat ik door een mug was gebeten.
-
-Zweren (to swear): Ik zweer dat ik een buitenaards wezen heb gezien.
-
-Oprapen (to pick up from the ground): Hij raapte de sleutels op. Kun je dat papiertje even oprapen? Ze raapte haar moed weer op. (figuurlijk) 
-12 Feb 2026
-Opendoen (to open): Er werd aan de poort gebeld en hij ging opendoen.
-
-Koperen (copper): Het koperen plaatje. 
-
-Fraai (beautiful, F): Wat een fraai uitzicht. Dat is fraai! (= dat is nou niet best…)
-11 Feb 2026
-Blinken (to shine): De vloer blonk na het poetsen. Hij blinkt uit in wiskunde.
-
-Wenken (to beckon, make a gesture to summon): Hij wenkt me om naar hem te komen. 
-
-Kruisen (to cross, to meet somebody): De wegen kruisen elkaar hier. De lijnen kruisen elkaar op het diagram. Ze kruisten elkaar op de trap.
-
-Razen (to race, to rage): De trein raasde voorbij. Hij raasde tegen zijn collega’s. 
-
-Hijzelf (himself, nadruk): Hijzelf heeft dat gezegd. Hijzelf wist er niets van.
-31 Jan 2026 - 10 Feb 2026
-We gingen naar Andorra om te skiën. Ik hield ervan, omdat er veel sneeuw lag en het weer mooi was. Ik denk dat ik elke keer een betere skiër word. Ook dit keer was het geen uitzondering: ik voel me zelfverzekerd op de piste en ik ben niet bang om rode en zwarte pistes te rijden. 
-30 Jan 2026
-Wankelen (to stagger, to become unsure about): Het kind wankelde op zijn eerste stappen. Het vertrouwen wankelt. 
-
-Dof (dull): Zij staart met doffe ogen naar de muur.
-
-Krijsen (to scream): Het kind begon te krijsen. 
-
-Snikken (to sob, cry noisily): Ze zat te snikken in een hoek. Hij probeerde zijn snikken te onderdrukken. 
-
-Erom (around it, about it): Het gaat erom in contact te komen met wie je bent. Klaas lacht erom.
-
-Terecht (correct, deserved): Hij was de terechte winnaar. 
-29 Jan 2026
-Plagen (to tease): Deze gedachte blijft me plagen. Hij plaagt zijn zus voortdurend.
-
-Gretig (eager): Hij las gretig verder. Ze luisterde gretig naar het verhaal. De kinderen aten gretig.
-
-Mat, de (mat): We lieten onze schoenen achter op de mat.
-
-Vingertop, de (fingertip): Ik raak voorzichtig de viool aan met mijn vingertop.
-
-Afschuwelijk (horrible): Het eten smaakte afschuwelijk. Hij vond het afschuwelijk dat ze loog. Een afschuwelijk ongeluk.
-	walgelijk = lichamelijke/zintuiglijke afkeer
-	afschuwelijk = morele/emotionele afkeer of schok
-28 Jan 2026
-Treurig (sad): Ze keek treurig uit het raam. Het was een treurige dag. Het is treurig wat daar gebeurt.
-	verdrietig = gevoel van een persoon
-	treurig = karakter van een situatie of constatering
-
-Knielen (to kneel): Je knielt voor het altaar en bidt de hele nacht. Het lijkt alsof hij in de sneeuw knielt.
-
-Voorbijgaan (to pass): Hij ging voorbij aan het huis. De pijn ging voorbij.
-
-Scène, de (scene): Die scène was erg spannend. Dit is mijn favoriete scène uit de film. Ze maakte een scène in het café.
-
-Verdiepen zich (to go into, to be caught up): Hij verdiepte zich verder in muziektheorie. Ze verdiepte zich weer in de krant.
-27 Jan 2026
-Onvermijdelijk (inevitable): Ik ben bang voor de onvermijdelijke dood.
-
-Verheugen zich (to look forward): Ik verheug me op het bezoek aan het pretpark.
-
-Nieuwsgierigheid (curiosity): Nieuwsgierigheid bracht de kat om. Apenheul heeft ons gewaarschuwd over de nieuwsgierigheid en kracht van orangoetans.
-
-Oneindig (infinite): Er is een oneindige hoeveelheid nummers. Hij zag het met het gevoel van oneindige opluchting. 
-
-Genot (delight): Het eten was een genot. Hij zocht genot in de kleine dingen van het leven. 
-26 Jan 2026
-Kaak, de (jaw): Hij perste zijn kaken op elkaar. 
-
-Ketting, de (chain): De fiets kan alleen rijden dankzij de ketting.
-
-Onttrekken zich (to withdraw, F): Hij onttrok zich aan de discussie. Ze onttrok zich aan de verantwoordelijkheid.
-
-Overheen (across, over): Je kunt erop stappen en de kajak er overheen trekken. De brug gaat over de rivier heen. Hij sprong over de sloot heen.
-
-Minnaar (lover): Ze had een minnaar naast haar echtgenoot. De roman gaat over de verhouding tussen de vrouw en haar minnaar.
-25 Jan 2026
-Ik nam een pauze van het studeren. 
-24 Jan 2026
-Grommen (to growl): Hij gromde iets onverstaanbaars. “Laat me met rust,” gromde hij.
-
-Onverschillig (indifferent): Hij reageerde onverschillig. Het liet haar volkomen onverschillig. 
-
-Drempel, de (bar, threshold, doorstep): Ik sta op de drempel te wachten. 
-
-Smeren (to spread, to butter): Ik zit een boterham te smeren. Hij smeerde zonnebrand op zijn huid.
-smeren = substantie verdelen, vaak plakkerig / vettig
-spreiden = iets verdelen, neutraal, kan abstract zijn
-
-Omhelzen (to embrace, to hug): Hij werd omhelst door zijn ouders. We omhelzen elkaar als begroeting. Wanneer je me omhelst... dan doet mijn hart pijn.
-
-Uiteindelijk (finally, eventually): Wie de uiteindelijke beslissing heeft genomen weet ik niet.
-23 Jan 2026
-Nest, het (nest): Het vogeltje blijft een tijdje in het nest.
-
-Wagen zich (to dare to try something, to risk, F): Hij waagde zich op glad ijs. Niemand waagde zich in de donkere kelder. 
-“Zich wagen” = correct en begrijpelijk, vooral geschreven of beschrijvende taal; spreektaal gebruikt meestal durven of proberen.
-
-Kier (small opening between two things, F): Zachtjes opent ze het raam op een kier. Er zat een kier in de deur waardoor de wind naar binnen kwam.
-	Alternatieven in spreektaal: opening, spleet, kloof (bij grotere scheuren)
-
-Lopen/komen/gaan/doen … toe (towards): Hij liep naar me toe. Ze kwam op me toe.
-Toe (with it): Doe er nog wat suiker toe.
-
-Wal, de (quay, shore): We lopen uit op de wal. 
-Voet aan wal zetten (to set foot ashore): We gaan voet aan wal zetten.
-22 Jan 2026
-Geleiden (to guide, to lead, F): De agent geleidde de gevangene.
-“Geleiden” wordt vooral gebruikt in technische of officiële contexten; in normaal taalgebruik zeg je bijna altijd “leiden”. 
-
-Ongerust (anxious): Ik ben ongerust over haar gezondheid. Ze was zichtbaar ongerust. Hij keek ongerust om zich heen. 
-
-Uitstrekken (to stretch): Hij strekte zijn armen uit. De vergadering werd uitgestrekt tot laat in de avond. Het project werd kunstmatig uitgestrekt.
-21 Jan 2026
-Stiekem (secret, secretly): Ik deed het stiekem toen niemand keek. Stiekem weet ik dat ze trots op me is. De waarheid is, dat zij hier al stiekem jaren leefden.
-
-[aan]Spannen zich (to tense, to tighten): Tijdens het trainen in de sportschool spannen mijn spieren zich aan. Hij spande zich in om kalm te blijven.
-
-Tegelijkertijd (at the same time): Het vuurwerk en het applaus kwamen tegelijkertijd. Ze spraken tegelijkertijd.
-20 Jan 2026
-Hok, het (shed, small room): Ik werk in een klein hok. De kippen wonen in het hok.
-
-Erachter (behind it): In de kamer stond een tafel en enkele stoelen erachter.
-
-Erachter komen (to find out): Hoe kom je erachter of dat waar is?
-
-Knopen (to knot, to tie): Je kan je eigen hemd knopen. De jongeman kon zijn das niet knopen. 
-
-Druipen (to drip): Het water druipt van het dak. Zijn neus druipt. Hij druipt van het zelfvertrouwen.
-19 Jan 2026
-Nietwaar (isn’t it, F, OW): Dat heb je goed gedaan, nietwaar?
-
-Spijten (to regret): Na ons gesprek voelde ik alleen maar spijt. Met spijt delen wij mee dat de wedstrijd is afgezegd.
-
-Vrijen (to make love, F): Ze waren aan het vrijen. Een scène waarin het stel vrijt.
-
-Horizon, de (horizon): De zon is achter de horizon verdwenen. 
-
-Daarnet (just (now)): Daarnet belde hij nog. Ik zag haar daarnet in de winkel. Daarnet viel er even regen.
-18 Jan 2026
-Zenuw, de (nerve): Wel kan er tijdens de punctie soms een zenuw geraakt worden.
-
-Geheimzinnig (mysterious): Hij keek haar geheimzinnig aan. Een geheimzinnige glimlach. Ze deed erg geheimzinnig over haar plannen (Ze deed erg geheimzinnig === she was very secretive).
-
-Volmaakt (perfect, OW): Het was een volmaakte dag. Zijn uitvoering was volmaakt. 
-
-Schuur, de (barn): Toen hadden we paarden en ze woonden in de schuur.
 
 
 
