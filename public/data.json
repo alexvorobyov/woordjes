@@ -2403,7 +2403,7 @@
     "translation": "to eat, to stuff, жрать",
     "example": "Hij zat de hele dag te vreten."
   },
-  "Stikken |stikte, ben gestikt):": {
+  "Stikken |stikte, ben gestikt|": {
     "translation": "to choke",
     "example": "Ze stikte in dat water en haar ademhaling was moeizaam."
   },
@@ -2420,7 +2420,7 @@
     "example": "Een brok brood. Hij gooide een brok steen naar het water. Er zat een brok in zijn keel."
   },
   "Vergaan |verging, heb vergaan|": {
-    "translation": "to perish",
+    "translation": "to perish, not for living things",
     "example": "Het rijk is uiteindelijk vergaan. Het schip verging in de storm. De bladeren vergaan in de herfst."
   },
   "Ernst, de": {
@@ -2583,6 +2583,10 @@
     "translation": "inner, F, L",
     "example": "Ze voelde een innerlijke rust. Het innerlijk van een mens is complex. Hij had een innerlijke strijd."
   },
+  "Ditmaal": {
+    "translation": "this time, F",
+    "example": "Ditmaal zal het wel lukken. We gaan ditmaal vroeg naar huis."
+  },
   "Stampen |stampte, heb gestampt|": {
     "translation": "to stamp",
     "example": "Het kind stampt op de vloer. Hij stampt van frustratie met zijn voet. Aardappelen stampen → aardappelpuree maken."
@@ -2593,6 +2597,114 @@
   },
   "Rondje, het": {
     "translation": "round, in a circle",
-    "example": "Wie doet het volgende rondje? Ik ga even een rondje lopen. Zullen we een rondje fietsen? We maken een rondje om het meer. Ik ga even een rondje lopen."
+    "example": "Wie doet het volgende rondje? Ik ga even een rondje lopen. Zullen we een rondje fietsen? We maken een rondje om het meer."
+  },
+  "Plooi, de": {
+    "translation": "pleat, crease, складка",
+    "example": "De plooi in haar rok. Een diepe plooi in zijn voorhoofd."
+  },
+  "Verstoppen |verstopte, heb verstopt|": {
+    "translation": "to hide",
+    "example": "Het kind verstopt zich achter de bank. Hij heeft de sleutels verstopt."
+  },
+  "Verschuilen |verschuilde/verschool, ?|": {
+    "translation": "to hide behind something",
+    "example": "Hij verschool zich achter een boom. Het kind verschuilt zich achter zijn moeder."
+  },
+  "Rots, de": {
+    "translation": "rock",
+    "example": "Het water was er altijd in beweging door de botsing met de rotsen."
+  },
+  "Stuiten |stuitte, heb gestuit|": {
+    "translation": "to encounter, to stop, F, OW",
+    "example": "Zijn plannen stuiten op veel kritiek bij het bestuur. Het onderzoek stuitte op onvoorziene moeilijkheden."
+  },
+  "Gelaat, het": {
+    "translation": "face, F, L",
+    "example": "Zijn gelaat vertoonde een ernstige uitdrukking."
+  },
+  "Nalaten |liet na, geb nagelaten|": {
+    "translation": "to refrain from, to leave, F",
+    "example": "Hij heeft zijn plichten nagelaten. Je mag deze taak niet nalaten. Hij heeft een groot vermogen nagelaten aan zijn kinderen. Ze liet een brief na voor haar familie. Het nalaten van onderhoud kan gevaarlijk zijn."
+  },
+  "Wreed": {
+    "translation": "cruel",
+    "example": "Dat was een wrede straf. De dictator was wreed voor zijn volk. Het was een wrede grap."
+  },
+  "Ofschoon": {
+    "translation": "although, F, L, OW",
+    "example": "Ofschoon het regende, gingen we wandelen."
+  },
+  "Berusten |berustte, heb berust|": {
+    "translation": "to resign oneself of, to be based on, F, L",
+    "example": "Je moet leren berusten in wat je niet kunt veranderen. De beslissing berustte op feiten. Zijn theorie berust op jaren onderzoek."
+  },
+  "Leegte, de": {
+    "translation": "emptiness",
+    "example": "De leegte van de kamer voelde kil aan. Na het verlies voelde hij een enorme leegte. Haar angst vulde de leegte van het huis."
+  },
+  "Sterven |stierf, ben gestorven|": {
+    "translation": "decease",
+    "example": "Helaas is mijn kat gestorven."
+  },
+  "Overlijden |overleed, ben overleden|": {
+    "translation": "decease, F",
+    "example": "Helaas is mijn grootvader gisteren overleden."
+  },
+  "Op pijl houden": {
+    "translation": "iets op het juiste niveau houden of in goede staat houden",
+    "example": "De voorraad op pijl houden → zorgen dat er genoeg is, maar niet te veel. Je conditie op pijl houden → zorgen dat je fit blijft. De administratie op pijl houden → zorgen dat alles netjes en actueel is."
+  },
+  "Afwezigheid, de": {
+    "translation": "absence",
+    "example": "De afwezigheid van de leraar veroorzaakte veel verwarring in de klas. Zijn afwezigheid bij de vergadering viel op. De afwezigheid van duidelijke regels leidde tot chaos."
+  },
+  "Wikkelen |wikkelde, heb gewikkeld|": {
+    "translation": "to wrap",
+    "example": "Ik wikkel de chocoladereep in folie. De baby werd in een dekentje gewikkeld. Ze wikkelde het cadeau mooi in papier."
+  },
+  "Doven |doofde, heb gedoofd|": {
+    "translation": "to extinguish, to dim",
+    "example": "De brandweer probeerde het vuur te doven. Hij doofde de kaars. De hoop doofde langzaam. “een brand blussen”, maar “een kaars doven.”"
+  },
+  "Kletsen |kletste, geb gekletst|": {
+    "translation": "to chat",
+    "example": "We zitten op de vensterbank te kletsen. Sommige mensen stonden daar alleen maar te kletsen, zonder interesse te tonen."
+  },
+  "Verpleegster, de": {
+    "translation": "nurse",
+    "example": "Een verpleegster kwam de kamer binnen."
+  },
+  "Loeren |loerde, heb geloerd|": {
+    "translation": "to peek",
+    "example": "Hij loerde door het raam om te zien wat er buiten gebeurde. Ze loerde naar de anderen tijdens het spel."
+  },
+  "Kil": {
+    "translation": "chill",
+    "example": "Het was een kille winterochtend. Ze gaf hem een kille blik."
+  },
+  "Smelten |smolt, gesmolten|": {
+    "translation": "to melt",
+    "example": "Ik heb een munt gesmolten."
+  },
+  "Schrapen |schraapte, heb geschraapt|": {
+    "translation": "to scrape",
+    "example": "Hij schraapte de verf van de muur. De stoel schraapte over de vloer."
+  },
+  "Openstaan |stond open, heb opengestaan|": {
+    "translation": "to be open",
+    "example": "Zo lang heeft nog nooit een deur opengestaan."
+  },
+  "Ongewoon": {
+    "translation": "unusual",
+    "example": "Het was een ongewone situatie. Het is niet zo ongewoon als je zou denken."
+  },
+  "Hoesten |hoestte, heb gehoest|": {
+    "translation": "to cough",
+    "example": "Ik ademde de rook van de sigaret in en begon te hoesten."
+  },
+  "Hullen |hulde, heb gehuld|": {
+    "translation": "to wrap",
+    "example": "Ze hulde zich in een warme jas. De bergtop was in mist gehuld. Hij hulde het kind in een deken."
   }
 }
