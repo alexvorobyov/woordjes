@@ -43,7 +43,7 @@ Degelijk (sound): Voor een degelijke journalistiek zijn middelen nodig.
 
 Aanleiding (reason): Er is daarom geen enkele aanleiding om dit opnieuw te bespreken.
 
-Steken (stab or put): Hij steekt de sleutel in het slot.
+Steken |stak, gestoken| (stab or put): Hij steekt de sleutel in het slot.
 
 Menen (believe): Ik weet het, maar dit keer menen we het echt.
 
@@ -71,7 +71,7 @@ Wellicht (possibly): Ze is wellicht de enige vrouw tegen wie je niet liegt.
 
 Alweer (again): Ik kan niet geloven dat het alweer de derde week is.
 
-Schuiven (slide under something): Goed, ik schuif de cheque wel onder je deur.
+Schuiven |schoof, heb geschoven| (slide under something): Goed, ik schuif de cheque wel onder je deur.
 
 Waardoor (as a result of which): Het was heerlijk rustig waardoor wij optimaal konden genieten van alles.
 
@@ -424,7 +424,7 @@ Afscheid, het (farewell, goodbye): De huisarts neemt morgenmiddag afscheid van p
 Dronken (drunk): Er zit een dronken man aan de bar.
 14 Oct 2025
 
-Wrijven (to rub): Hij staat er al jaren, en je wrijft hem voor geluk.
+Wrijven |wreef, heb gewreven| (to rub): Hij staat er al jaren, en je wrijft hem voor geluk. Hij wreef over zijn gezicht. Je kunt je handen wrijven, maar je haar strijken.
 	wrijven = krachtiger, herhaald, meer druk
 strijken = glad, zacht, vloeiend
 Je kunt je handen wrijven, maar je haar strijken.
@@ -447,7 +447,7 @@ Stoten (to bump, to knock): Ik stootte mijn hoofd en raakte bewusteloos.
 
 Kerel, de (guy): Ik ben een normale gezonde kerel.
 16 Oct 2025
-Heffen (to lift): Deze barbell is niet geschikt voor het heffen van veel gewicht.
+Heffen |hief, geheven| (to lift): Deze barbell is niet geschikt voor het heffen van veel gewicht.
 
 Wekken (wake up, somebody else): Ze slaapt maar alleen ik kan haar wekken.
 
@@ -460,7 +460,7 @@ Slagen (to succeed): Als hij slaagt in zijn opdracht, krijgt hij 300 miljoen dol
 In het park zat een stel op een bankje, hand in hand. De zon scheen helder door de bomen en liet het water in de vijver zacht glanzen.
 Plots sprong er een hond uit de struiken en zette zijn poot op de picknickmand. De vrouw keek hem eerst met verbazing aan, maar de man reageerde met woede toen de hond een stuk brood greep en ermee wegrende.
 Toch moest ze hem even aankijken en lachen — zijn boze gezicht maakte de situatie alleen maar grappiger. Hij keek haar enigszins beschaamd aan, en samen barsten ze in lachen uit.
-Aankijken (to look at): Toen ik thuiskwam kon ik m'n man niet eens aankijken.
+Aankijken (to look in the face): Toen ik thuiskwam kon ik m'n man niet eens aankijken.
 
 Enigszins (somewhat): Hij ging enigszins overeind zitten.
 
@@ -476,11 +476,11 @@ Verbazing, de (amazement): Haar mond viel open van verbazing.
 
 Stel (couple, set): In een ander leven, zouden we een perfect stel zijn.
 18 Oct 2025
-Volkomen (completely): Onze cliënt deed niets verkeerd, zijn product is volkomen veilig.
+Volkomen (completely, F): Onze cliënt deed niets verkeerd, zijn product is volkomen veilig. Dat is volkomen onmogelijk.
 
 Duiken (to dive): We duiken in het zwembad.
 
-Tillen (to lift): Wanneer een van ons valt, tillen de anderen hem op.
+Tillen |tilde, word getild| (to lift): Wanneer een van ons valt, tillen de anderen hem op.
 	Tillen: iets met je handen optillen (meestal fysiek, letterlijk). Kun je deze doos tillen?
 Heffen: iets optillen omhoog brengen, vaak formeel of symbolisch. Hij heft zijn glas om te proosten.
 
@@ -564,7 +564,7 @@ Slepen |sleepte, heb gesleept| (to drag): Ik ben al twee dagen bezig hun lichame
 
 Vuist, de (fist): Ze knijpt haar handen tot vuisten.
 
-Vouwen (to fold): Ze vouwde haar armen over elkaar.
+Vouwen |vouwde, heb gevouwen| (to fold): Ze vouwde haar armen over elkaar.
 
 Tak, de (branch): We halen de takken van de weg en gaan naar huis.
 
@@ -614,7 +614,7 @@ Slok, de (sip): Zij kijkt na elke slok koffie op haar horloge.
 
 Vlek het/de (stain): Je hebt rode vlekken op je wangen.
 
-Scheuren (to tear): Hij scheurde het boek in stukken.
+Scheuren |scheurde, wordt gescheurd| (to tear): Hij scheurde het boek in stukken.
 	Scheuren = het gaat kapot (resultaat). Hij scheurde het papier.
 	Rukken = je trekt hard (actie). Hij rukte het papier uit mijn handen.
 
@@ -658,7 +658,7 @@ Stijf (stiff): Charlie kwam overeind en wreef over zijn stijve knieën.
 
 Duim, de (thumb), wijsvinger, de (index finger): Ik hield het tussen mijn duim en wijsvinger.
 
-Strijken |streek, heb gestreken| (to brush, to strike, to iron, to smooth): Ze streek zelfs haar sokken. Ik moet mijn overhemd nog strijken. Ze streek door zijn haar.
+Strijken |streek, heb gestreken| (to brush, to stroke, to iron, to smooth): Ze streek zelfs haar sokken. Ik moet mijn overhemd nog strijken. Ze streek door zijn haar.
 
 Ademen (to breath): Ze ademde diep en hield de adem in.
 
@@ -733,6 +733,7 @@ verrassen = onverwacht effect, sterker en plots
 Betrappen (to catch): Dezelfde dag betrapte dezelfde politieagent de verdachte nog eens.
 
 Stuur, het (steering wheel, handlebars): Ik zat achter het stuur (== I was driving).
+
 Voorgoed (permanently): De lege plaats zou voorgoed leeg blijven.
 
 Druppel, de (drop): Bij de minste regen of mist absorberen ze al elke druppel.
@@ -869,7 +870,7 @@ Spoedig (soon): Frank verwacht dat hij spoedig wordt vrijgelaten.
 
 Aandachtig (attentive): Ze waren aandachtig, maar toch zeer respectvol voor onze privacy.
 30 Nov 2025
-Peinzen (to ponder, to think about something carefully): Na het ongeluk dacht ik dat je er niet over zou peinzen.
+Peinzen (to ponder, to think about something carefully, OW): Na het ongeluk dacht ik dat je er niet over zou peinzen.
 	Een beetje ouderwets, in normale spreektaal gebruikt men: nadenken, overdenken
 
 Sluipen (to sneak): Hij sluipt in de tuin en eet de appel zonder toestemming.
@@ -920,7 +921,7 @@ Pan, de (pan): Mijn moeder zette de pannen op het vuur in de keuken.
 
 Graf, het (grave): Ik kan je verzekeren dat ik zwijg als het graf. De vrouw staart naar het graf.
 4 Dec 2025
-Wuiven (to wave): Ze wuifde zachtjes naar hem.
+Wuiven |wuifde, heb gewuifd| (to wave): Ze wuifde zachtjes naar hem.
 	zwaaien = grote beweging, breed en duidelijk
 wuiven = kleine, zachte, elegante beweging
 
@@ -979,7 +980,7 @@ Teleurstellen (to disappoint): Ik vrees dat ik je moet teleurstellen.
 9 Dec 2025
 Indruk, de (impression): Zijn levensverhaal maakte veel indruk.
 
-Brullen (to roar): We hoorden haar een liedje brullen.
+Brullen |brulde, heb gebruld| (to roar): We hoorden haar een liedje brullen.
 
 Vochtig (moist): Het was warm en vochtig in de bus.
 
@@ -1136,7 +1137,7 @@ Lap, de (rag): Veeg de reiniger weg met een schone doek of lap.
 
 Voetstap, de (footstep): Eindelijk horen we voetstappen naderen.
 
-Uitsteken (to hold out, to stand out): Let op dat er geen delen uitsteken, dat beschadigt te snel.
+Uitsteken |stak uit, heb uitgestoken| (to hold out, to stand out): Let op dat er geen delen uitsteken, dat beschadigt te snel.
 12 Jan 2026
 Driftig (angry, short-tempered): Hij reageerde driftig. Een driftig kind. 
 	“Driftig” = begrijpelijk en correct, maar niet heel gebruikelijk in dagelijks gesprek; vaker in geschreven of beschrijvende taal.
@@ -1183,7 +1184,7 @@ Het staat me niet goed (it doesn’t suit me): Ik heb geen baard, omdat het me n
 
 Ontwaken (to wake up, yourself): Toen ik ontwaakte zag ik dat het pas half acht was.
 
-Verbreken (to break up/off, F): Hij verbrak de belofte. Het contract werd verbroken.
+Verbreken |verbrak, heb verbroken| (to break up/off, F): Hij verbrak de belofte. Het contract werd verbroken.
 
 Wringen (to worm, F): Hij wrong het vocht uit de doek. Ze wrong de handdoek uit na het wassen. Het wringt om dat te accepteren (=== it hurts to accept that).
 

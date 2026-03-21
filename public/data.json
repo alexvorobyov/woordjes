@@ -75,7 +75,7 @@
     "translation": "reason",
     "example": "Er is daarom geen enkele aanleiding om dit opnieuw te bespreken."
   },
-  "Steken": {
+  "Steken |stak, gestoken|": {
     "translation": "stab or put",
     "example": "Hij steekt de sleutel in het slot."
   },
@@ -127,7 +127,7 @@
     "translation": "again",
     "example": "Ik kan niet geloven dat het alweer de derde week is."
   },
-  "Schuiven": {
+  "Schuiven |schoof, heb geschoven|": {
     "translation": "slide under something",
     "example": "Goed, ik schuif de cheque wel onder je deur."
   },
@@ -755,9 +755,9 @@
     "translation": "drunk",
     "example": "Er zit een dronken man aan de bar."
   },
-  "Wrijven": {
+  "Wrijven |wreef, heb gewreven|": {
     "translation": "to rub",
-    "example": "Hij staat er al jaren, en je wrijft hem voor geluk."
+    "example": "Hij staat er al jaren, en je wrijft hem voor geluk. Hij wreef over zijn gezicht. Je kunt je handen wrijven, maar je haar strijken."
   },
   "Uitzien": {
     "translation": "to look, look forward",
@@ -791,7 +791,7 @@
     "translation": "guy",
     "example": "Ik ben een normale gezonde kerel."
   },
-  "Heffen": {
+  "Heffen |hief, geheven|": {
     "translation": "to lift",
     "example": "Deze barbell is niet geschikt voor het heffen van veel gewicht."
   },
@@ -812,7 +812,7 @@
     "example": "Als hij slaagt in zijn opdracht, krijgt hij 300 miljoen dollar."
   },
   "Aankijken": {
-    "translation": "to look at",
+    "translation": "to look in the face",
     "example": "Toen ik thuiskwam kon ik m'n man niet eens aankijken."
   },
   "Enigszins": {
@@ -844,14 +844,14 @@
     "example": "In een ander leven, zouden we een perfect stel zijn."
   },
   "Volkomen": {
-    "translation": "completely",
-    "example": "Onze cliënt deed niets verkeerd, zijn product is volkomen veilig."
+    "translation": "completely, F",
+    "example": "Onze cliënt deed niets verkeerd, zijn product is volkomen veilig. Dat is volkomen onmogelijk."
   },
   "Duiken": {
     "translation": "to dive",
     "example": "We duiken in het zwembad."
   },
-  "Tillen": {
+  "Tillen |tilde, word getild|": {
     "translation": "to lift",
     "example": "Wanneer een van ons valt, tillen de anderen hem op."
   },
@@ -991,7 +991,7 @@
     "translation": "fist",
     "example": "Ze knijpt haar handen tot vuisten."
   },
-  "Vouwen": {
+  "Vouwen |vouwde, heb gevouwen|": {
     "translation": "to fold",
     "example": "Ze vouwde haar armen over elkaar."
   },
@@ -1087,7 +1087,7 @@
     "translation": "stain",
     "example": "Je hebt rode vlekken op je wangen."
   },
-  "Scheuren": {
+  "Scheuren |scheurde, wordt gescheurd|": {
     "translation": "to tear",
     "example": "Hij scheurde het boek in stukken."
   },
@@ -1152,7 +1152,7 @@
     "example": "Ik hield het tussen mijn duim en wijsvinger."
   },
   "Strijken |streek, heb gestreken|": {
-    "translation": "to brush, to strike, to iron, to smooth",
+    "translation": "to brush, to stroke, to iron, to smooth",
     "example": "Ze streek zelfs haar sokken. Ik moet mijn overhemd nog strijken. Ze streek door zijn haar."
   },
   "Ademen": {
@@ -1457,7 +1457,7 @@
   },
   "Pas": {
     "translation": "only",
-    "example": "Ik vond die foto's pas toen ik naar haar flat ging."
+    "example": "Ze kwam pas gisteren terug van vakantie (only yesterday). Hij is pas vijf jaar oud (only five years old). Je mag pas naar binnen als je een kaartje hebt. Er zijn pas drie mensen gekomen."
   },
   "Zenuwachtig": {
     "translation": "nervous",
@@ -1504,7 +1504,7 @@
     "example": "Ze waren aandachtig, maar toch zeer respectvol voor onze privacy."
   },
   "Peinzen": {
-    "translation": "to ponder, to think about something carefully",
+    "translation": "to ponder, to think about something carefully, OW",
     "example": "Na het ongeluk dacht ik dat je er niet over zou peinzen."
   },
   "Sluipen": {
@@ -1591,7 +1591,7 @@
     "translation": "grave",
     "example": "Ik kan je verzekeren dat ik zwijg als het graf. De vrouw staart naar het graf."
   },
-  "Wuiven": {
+  "Wuiven |wuifde, heb gewuifd|": {
     "translation": "to wave",
     "example": "Ze wuifde zachtjes naar hem."
   },
@@ -1691,7 +1691,7 @@
     "translation": "impression",
     "example": "Zijn levensverhaal maakte veel indruk."
   },
-  "Brullen": {
+  "Brullen |brulde, heb gebruld|": {
     "translation": "to roar",
     "example": "We hoorden haar een liedje brullen."
   },
@@ -1955,7 +1955,7 @@
     "translation": "footstep",
     "example": "Eindelijk horen we voetstappen naderen."
   },
-  "Uitsteken": {
+  "Uitsteken |stak uit, heb uitgestoken|": {
     "translation": "to hold out, to stand out",
     "example": "Let op dat er geen delen uitsteken, dat beschadigt te snel."
   },
@@ -2043,7 +2043,7 @@
     "translation": "to wake up, yourself",
     "example": "Toen ik ontwaakte zag ik dat het pas half acht was."
   },
-  "Verbreken": {
+  "Verbreken |verbrak, heb verbroken|": {
     "translation": "to break up/off, F",
     "example": "Hij verbrak de belofte. Het contract werd verbroken."
   },
@@ -2706,5 +2706,121 @@
   "Hullen |hulde, heb gehuld|": {
     "translation": "to wrap",
     "example": "Ze hulde zich in een warme jas. De bergtop was in mist gehuld. Hij hulde het kind in een deken."
+  },
+  "Eraf": {
+    "translation": "off",
+    "example": "De verf moet eraf worden geschraapt. De knop viel eraf. Mijn hoed is eraf gewaaid (my hat blew off). Ze had de stress eraf gelopen met een lange wandeling. Probeer die vervelende gedachten eraf te zetten. Eraf halen → Haal het sticker eraf."
+  },
+  "Verdragen |verdroeg, heb verdragen|": {
+    "translation": "to bear",
+    "example": "Dat zou ik niet kunnen verdragen. Ik kan de hitte niet verdragen. De regering kan corruptie niet verdragen."
+  },
+  "Long, de": {
+    "translation": "lung",
+    "example": "De mannen ademen met hun longen."
+  },
+  "Schijn, de": {
+    "translation": "appearance",
+    "example": "De schijn bedriegt (the appearance is deceiving). Alles was slechts schijn (everything was merely an illusion). L – De schijn van de maan verlichtte de weg. Schijn en werkelijkheid → appearance vs reality. De schijn ophouden → doen alsof alles normaal is. De schijn tegen hebben → het lijkt alsof je schuldig bent"
+  },
+  "Brommen |bromde, heb gebromd|": {
+    "translation": "to mutter",
+    "example": "De motor bromde luid toen hij startte. Hij bromde iets onverstaanbaars toen ik hem aansprak."
+  },
+  "Verbeelden zich |verbeelde, heb verbeeld|": {
+    "translation": "to imagine",
+    "example": "Ik verbeeld me dat ik op een vliegend tapijt naar het werk reis. Heb ik me dat dan allemaal verbeeld?"
+  },
+  "Aanrecht, de": {
+    "translation": "countertop, counter",
+    "example": "Bovendien houdt het aanrecht en oven schoon tijdens de bereiding van gerechten."
+  },
+  "Invloed, de": {
+    "translation": "influence",
+    "example": "Zijn ouders hadden veel invloed op zijn keuze. Sociale media hebben een grote invloed op jongeren. Het weer heeft invloed op mijn humeur."
+  },
+  "Roeren |roerde, heb geroerd|": {
+    "translation": "to stir",
+    "example": "Nee, je doet het verkeerd, je moet in de soep roeren, niet in de rijst! Hij roerde in zijn koffie."
+  },
+  "Kloppen |klopte, heb geklopt|": {
+    "translation": "to knock, to beat",
+    "example": "Hij klopte op de deur. Zijn verhaal klopt niet. Dat klopt. Mijn hart klopte snel. Ze klopte het tapijt uit."
+  },
+  "Uitzoeken |zocht uit, heb uitgezocht|": {
+    "translation": "to find out, to select, to choose",
+    "example": "Kun jij uitzoeken hoe laat de trein vertrekt? Ik heb uitgezocht hoe ik het formulier moet invullen. We moeten uitzoeken waarom de computer niet werkt. Ik ga een boek uitzoeken in de bibliotheek. De kinderen mogen zelf speelgoed uitzoeken in de winkel. We gaan een taart uitzoeken voor de verjaardag."
+  },
+  "Eronder": {
+    "translation": "below",
+    "example": "De kast staat eronder. Eronder lijden → iets negatiefs ervaren door iets anders: Hij leed eronder dat hij zijn baan verloor. Eronder zitten → zich slecht voelen: Ze zat er helemaal onder."
+  },
+  "Enveloppe, de": {
+    "translation": "envelop",
+    "example": "Ik heb de brief in een enveloppe gedaan."
+  },
+  "Riem, de": {
+    "translation": "belt",
+    "example": "Ik moet een nieuwe riem kopen. Doe je riem (veiligheidsriem) om. Iemand een riem onder het hart steken (== to give someone courage, encourage)."
+  },
+  "Stam, de": {
+    "translation": "tree trunk, group of people",
+    "example": "De stam van de boom is dik. Een Afrikaanse stam. De stam van het werkwoord “lopen” is “loop”. Hij komt uit een goede stam."
+  },
+  "Verschijning, de": {
+    "translation": "appearance",
+    "example": "De verschijning van de komeet trok veel aandacht. Men zag de verschijning (geest) van een oude ridder. Ze maakte een indrukwekkende verschijning op het feest."
+  },
+  "Grijns, de": {
+    "translation": "grim, broad smile",
+    "example": "De grijns op zijn gezicht geeft aan dat zijn plan lukte."
+  },
+  "Geweer, het": {
+    "translation": "gun, rifle",
+    "example": "De verdachte had een geweer bij zich. Soldaten droegen geweren."
+  },
+  "Flard, de": {
+    "translation": "fragment, L",
+    "example": "Een flard van een gesprek. Een flard muziek."
+  },
+  "Woest": {
+    "translation": "fierce",
+    "example": "Hij werd woest toen hij het nieuws hoorde. De woeste zee beukte tegen de rotsen. Ze keek hem met woeste ogen aan."
+  },
+  "Rommel, de": {
+    "translation": "clutter",
+    "example": "Er ligt rommel op de vloer. De rommel op het bureau valt helemaal niet te beschrijven. Dat is allemaal rommel, ik vertrouw het niet."
+  },
+  "Spuiten |spoot, werd gespoten|": {
+    "translation": "to squirt, to spray",
+    "example": "De brandweer spuit water op het vuur. De plantenspuit spuit water over de bloemen. De verpleegster spuit de vaccinatie."
+  },
+  "Erf, het": {
+    "translation": "courtyard",
+    "example": "Het erf achter het huis is groot."
+  },
+  "Gapen |gapte, heb gegaapt|": {
+    "translation": "to yawn",
+    "example": "Ik moest de hele tijd gapen tijdens de film. Hij zat te gapen van verveling."
+  },
+  "Verdrinken |verdronk, wordt verdronken|": {
+    "translation": "to drown",
+    "example": "Hij dreigde te verdrinken in het zwembad. Hij raakte bijna verdronken in de zee."
+  },
+  "Bejaard": {
+    "translation": "elderly, aged",
+    "example": "Mijn bejaarde ouders vergeten altijd alles."
+  },
+  "Kuil, de": {
+    "translation": "pit, hole",
+    "example": "Pas op voor de kuil in het weiland. Hij zat in een diepe kuil van verdriet."
+  },
+  "Verdwalen |verdwaalde, ben verdwaald|": {
+    "translation": "lost",
+    "example": "Ik ben verdwaald in het bos. Hij voelt zich verdwaald in het leven. Er lag een verdwaalde sok onder het bed."
+  },
+  "Opnemen |nam op, heb opgenomen|": {
+    "translation": "to record, to pick up, to include, to get",
+    "example": "Ik ga een video opnemen. Kun je de telefoon opnemen? We nemen dit punt op in het verslag."
   }
 }
