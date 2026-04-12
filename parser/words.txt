@@ -116,7 +116,7 @@ Geraken, raken (touch, lose, to end up in a situation):
 
 Bovendien (also): Melk is lekker en bovendien gezond.
 
-Verdelen (to divide): Wij verdelen onze producten in verschillende categorieën.
+Verdelen |verdeelde, heb verdeeld| (to divide): Wij verdelen onze producten in verschillende categorieën. We moeten de portie onder ons allemaal verdelen.
 
 Afwijk (deviate, differ): Hij die niet van zijn natuur afwijkt, zal lang leven.
 3 Sept 2025
@@ -172,7 +172,7 @@ Trouwens (anyway, by the way): Het is trouwens geen geheim, ik weet er alles van
 
 Herkennen (recognize): Er was een foto van een jongetje die ik meteen herkende.
 
-Besteden (spend): Het is niet verstandig om veel tijd aan luxe te besteden. Ik heb zoveel tijd besteed aan het allemaal te begrijpen.
+Besteden |besteedde, heb besteed| (spend): Het is niet verstandig om veel tijd aan luxe te besteden. Ik heb zoveel tijd besteed aan het allemaal te begrijpen.
 	Doorbrengen = nadruk op het beleven van tijd ergens of met iemand.
 	Besteden = nadruk op het gebruiken van tijd voor iets specifieks.
 
@@ -284,7 +284,7 @@ Fluisteren (to whisper): Zelfs als je fluistert, kan iedereen je horen.
 
 Gauw (soon, quickly): We renden gauw de hal in, maar daar was niemand…
 
-Glijden (slide on/through something): Zelfs de skins hebben geen grip en we glijden steeds weg.
+Glijden |gleed, heb gegleden| (slide on/through something): Zelfs de skins hebben geen grip en we glijden steeds weg.
 
 Schreeuwen (to shout): Als we naar beneden gaan, wil ik dat u tegen me schreeuwt.
 
@@ -342,7 +342,7 @@ Overeind (up): Zonder deze pin blijft het systeem simpelweg niet overeind staan.
 
 Smal (narrow): Het huis waarin wij woonden lag aan een smalle straat.
 
-Schenken (to donate): U kunt zelf uw bedrag bepalen wat u wilt schenken.
+Schenken |schonk, heb geschonken| (to donate): U kunt zelf uw bedrag bepalen wat u wilt schenken.
 7 Oct 2025
 Vrolijk (cheerful, merry): Dit is het soort muziek waar een mens vrolijk van wordt.
 
@@ -503,7 +503,7 @@ Wand, de (wall): Hij wees naar de grote klok aan de wand.
 
 Opwinden zich (to get excited (sexual connotation)): Heel de dag had hij zich door die gedachten laten opwinden.
 
-Barsten (to crack, to erupt): Ik stap nooit op barsten, en soms loop ik achteruit. De voorruit van zijn voertuig was gebarsten.
+Barsten |barstte, heb gebarsten| (to crack, to erupt): Ik stap nooit op barsten, en soms loop ik achteruit. De voorruit van zijn voertuig was gebarsten.
 20 Oct 2025
 Kin, de (chin): Ik heb zelfs een piepklein baardje onder mijn kin.
 
@@ -545,7 +545,7 @@ Zorgvuldig (careful, thorough): We proberen gewoon ons onderzoek zo zorgvuldig m
 23 Oct 2025 - 27 Oct 2025
 ADE!!! Ik ga even een beetje ontspannen.
 28 Oct 2025
-Vervolgen (to continue): Hij vervolgde zijn weg naar beneden.
+Vervolgen |vervolgde, heb vervolgd| (to continue): Hij vervolgde zijn weg naar beneden.
 Vervolgens (then): Een man heeft z'n vrouw en kind vermoord en vervolgens zichzelf.
 
 Terugkeren (to return): Ze zijn bij me teruggekeerd uit het land der doden.
@@ -757,7 +757,7 @@ Somber (gloomy, bleak): Ik heb de toekomst gezien, en die is somber.
 12 Nov 2025
 Grijnzen (to smile broadly): Je grijnst de laatste tijd zo raar, alsof je iets verbergt.
 
-Waaien (to blow): Over het land waait een koude wind.
+Waaien |waaide, heb gewaaid| (to blow): Over het land waait een koude wind.
 
 Doordringen (to penetrate, to get through): Ik dring niet door tot die man.
 
@@ -794,7 +794,7 @@ Ik koester de hoop dat: I sincerely hope that …
 
 Spreiden (spread): Ik spreid mijn vleugels en probeer te vliegen.
 17 Nov 2025
-Vatten (to catch, to grasp): Voorzichtig vatte hij haar bij de arm.
+Vatten |vatte, heb gevat| (to catch, to grasp): Voorzichtig vatte hij haar bij de arm. Ik vat niet wat je bedoelt. Het matras vatte vlam. 
 “Vatten” kan dit betekenen, maar klinkt in moderne taal ouderwets. “Pak­te” of “greep” wordt vaker gebruikt.
 	Vatten = iets begrijpen of doorhebben. “Ik vat wat je bedoelt.”
 Vangen = iets fysiek grijpen of opvangen. “Hij ving de bal.”
@@ -805,7 +805,7 @@ Besef, het (understanding): Je staat stil om tot het besef te komen dat je verdw
 18 Nov 2025
 Geheugen, het (memory): U hebt een uitstekend geheugen.
 
-Begeven (to break down): We hebben maar een paar uur voor de machine het begeeft.
+Begeven |begaf, heb begeven| (to break down): We hebben maar een paar uur voor de machine het begeeft.
 Zich begeven (move): Hij begeeft zich naar de plaats van de actie en zegt geen woord.
 
 Klank, de (sound): Zijn viool heeft een prachtige klank.
@@ -928,7 +928,7 @@ wuiven = kleine, zachte, elegante beweging
 Dol (crazy): Ik was dol op u in die film…
 	“Dol” in de betekenis van “gek / crazy” wordt nog gebruikt, maar het klinkt duidelijk informeel en soms een beetje ouderwets of speels, afhankelijk van de zin.
 
-Opsteken (to light up): Ik heb een sigaretje opgestoken.
+Opsteken |stak op, heb opgestoken| (to light up): Ik heb een sigaretje opgestoken.
 
 Emotie, de (emotion): Ik begreep niet welke emotie ik nodig had voor m'n tekst.
 
@@ -1008,7 +1008,9 @@ Bemoeien zich (to interfere): Ik vind niet dat we ons moeten bemoeien met haar l
 
 Schoot, de (lap): Ik klom op zijn schoot en gaf hem een harde knuffel.
 
-Zeuren (to whine, to nag): De kinderen zeuren om snoep.
+Zeuren |zeurde, heb gezeurd| (to whine, to nag): De kinderen zeuren om snoep.
+	Janken = huilen (emotionele uiting, geluid van verdriet)
+Zeuren = klagen/mopperen (woorden, irritatie, vaak herhaald)
 
 Snuiven |snoof, heb gesnoven| (to sniff): Hij snuift de lucht op.
 11 Dec 2025
@@ -1040,7 +1042,7 @@ Verbeelding, de (imagination): Ik gebruik mijn verbeelding om een verhaal te bed
 
 Versleten (worn): De apparatuur is versleten maar nog steeds bruikbaar. (bruikbaar === usable)
 14 Dec 2025
-Ontroeren (move emotionally, F): Ik was ontroerd door het gebaar. Het verhaal ontroerde me diep.
+Ontroeren |ontroerde, heb ontroerd| (move emotionally, F): Ik was ontroerd door het gebaar. Het verhaal ontroerde me diep.
 
 Amuseren zich (to amuse): We amuseerden ons prima op het feest. Hij amuseerde zich met een spelletje op zijn telefoon. De kinderen amuseren zich in de speeltuin.
 
@@ -1144,7 +1146,7 @@ Driftig (angry, short-tempered): Hij reageerde driftig. Een driftig kind.
 
 Venster, het (window): Ik begrijp waarom huizen hier zulke kleine vensters hebben.
 
-Verbijsteren (to bewilder): Het nieuws verbijsterde hem. Ik was verbijsterd door de uitslag.
+Verbijsteren |verbijsterde, heb verbijsterd| (to bewilder): Het nieuws verbijsterde hem. Ik was verbijsterd door de uitslag.
 
 Eigenaardig (peculiar, odd): Wij vroegen ons af of jullie iets eigenaardig gezien hadden vanavond. Hij gedroeg zich eigenaardig.
 13 Jan 2026
@@ -1186,7 +1188,7 @@ Ontwaken (to wake up, yourself): Toen ik ontwaakte zag ik dat het pas half acht 
 
 Verbreken |verbrak, heb verbroken| (to break up/off, F): Hij verbrak de belofte. Het contract werd verbroken.
 
-Wringen (to worm, F): Hij wrong het vocht uit de doek. Ze wrong de handdoek uit na het wassen. Het wringt om dat te accepteren (=== it hurts to accept that).
+Wringen |wrong, heb gewrongen| (to worm, F): Hij wrong het vocht uit de doek. Ze wrong de handdoek uit na het wassen. Het wringt om dat te accepteren (=== it hurts to accept that).
 
 
 

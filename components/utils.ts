@@ -32,7 +32,7 @@ export function getFiveRandomItems(words: DataItem[]): DataItem[] {
   const length = words.length;
 
   if (length <= 5) {
-    return words;
+    return [...words];
   }
 
   const usedIndices = new Set<number>();
