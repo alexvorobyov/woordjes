@@ -79,7 +79,7 @@
     "translation": "stab or put",
     "example": "Hij steekt de sleutel in het slot."
   },
-  "Menen": {
+  "Menen |meende, heb gemeend|": {
     "translation": "believe",
     "example": "Ik weet het, maar dit keer menen we het echt."
   },
@@ -511,7 +511,7 @@
     "translation": "to shout",
     "example": "Als we naar beneden gaan, wil ik dat u tegen me schreeuwt."
   },
-  "Werpen": {
+  "Werpen |wierp, heb geworpen|": {
     "translation": "to throw",
     "example": "Twee lampjes werpen licht op het donkerbruine blad. Ze werpt me tegen de muur en doet mijn rits open."
   },
@@ -731,7 +731,7 @@
     "translation": "vague",
     "example": "Dit klinkt best vaag en dat maakt het een lastige klus. (lastige klus = difficult job)"
   },
-  "Vegen": {
+  "Vegen |veegde, heb geweegd|": {
     "translation": "sweep",
     "example": "Hij veegt de suiker van mijn lippen zodat hij me kan proeven."
   },
@@ -1215,7 +1215,7 @@
     "translation": "to grasp, to scan",
     "example": "De pers schrijft dat we in het duister tasten."
   },
-  "Zweven": {
+  "Zweven |zweefde, heb gezweefd|": {
     "translation": "to float",
     "example": "In de ruimte rondom onze planeet zweeft veel afval rond."
   },
@@ -1331,7 +1331,7 @@
     "translation": "pity, sorry",
     "example": "Hij had een beetje medelijden met haar (== He felt a little sorry for her)"
   },
-  "Bevrijden": {
+  "Bevrijden |bevrijdde, heb bevrijd|": {
     "translation": "to free",
     "example": "Hij bevrijdt zijn linkerarm."
   },
@@ -1375,7 +1375,7 @@
     "translation": "anxious",
     "example": "Hij zag haar angstige blik."
   },
-  "Bezorgen": {
+  "Bezorgen |bezorgde, heb bezorgd|": {
     "translation": "deliver, give, provide",
     "example": "Het was niet mijn bedoeling om jou onnodig werk te bezorgen."
   },
@@ -1507,7 +1507,7 @@
     "translation": "to ponder, to think about something carefully, OW",
     "example": "Na het ongeluk dacht ik dat je er niet over zou peinzen."
   },
-  "Sluipen": {
+  "Sluipen |sloop, ben geslopen|": {
     "translation": "to sneak",
     "example": "Hij sluipt in de tuin en eet de appel zonder toestemming."
   },
@@ -1875,7 +1875,7 @@
     "translation": "oh well",
     "example": "Ach, dat geeft toch helemaal niks (that doesn’t matter at all)"
   },
-  "Prikken": {
+  "Prikken |prikte, heb geprikt|": {
     "translation": "to prick",
     "example": "Zorg ervoor dat je jezelf niet prikt met de naald."
   },
@@ -2255,7 +2255,7 @@
     "translation": "eager",
     "example": "Hij las gretig verder. Ze luisterde gretig naar het verhaal. De kinderen aten gretig."
   },
-  "Plagen": {
+  "Plagen |plaagde, heb geplaagd|": {
     "translation": "to tease",
     "example": "Deze gedachte blijft me plagen. Hij plaagt zijn zus voortdurend."
   },
@@ -2837,7 +2837,7 @@
   },
   "Glippen |glipte, ben geglipt|": {
     "translation": "to slip",
-    "example": "Hij glipte stilletjes de kamer uit. De kans glipte door zijn vingers."
+    "example": "Hij glipte stilletjes de kamer uit. De kans glipte door zijn vingers. De man glipte weg van de politieagent."
   },
   "Heimwee, de/het": {
     "translation": "homesickness",
@@ -3063,6 +3063,14 @@
     "translation": "to soothe",
     "example": "Ik suste het huilende babytje."
   },
+  "Vaas, de": {
+    "translation": "vase",
+    "example": "De vaas viel om en ging helemaal kapot."
+  },
+  "Kalmeren |kalmeerde, wordt gekalmeerd|": {
+    "translation": "to calm",
+    "example": "Ik kon hem niet kalmeren, hoewel ik mijn best heb gedaan. Ik ga even zitten om te kalmeren"
+  },
   "Bezig": {
     "translation": "busy",
     "example": "Ik ben bezig met mijn huiswerk. Ik ben bezig met een telefoongesprek. Ben je bezig? Ik zie dat je bezig bent, ik kom later terug."
@@ -3074,5 +3082,237 @@
   "Lukken |lukte, heb gelukt|": {
     "translation": "to succeed",
     "example": "Het lukt niet. Het lukt wel. Het lukt mij niet om te slapen. Denk je dat het gaat lukken?"
+  },
+  "Mantel, de": {
+    "translation": "overcoat",
+    "example": "De rechter droeg een mantel."
+  },
+  "Verlammen |verlamde, heb verlamd|": {
+    "translation": "to paralyze",
+    "example": "Na het ongeluk zijn zijn benen verlamd."
+  },
+  "Etalage, de": {
+    "translation": "shop window",
+    "example": "Hij stopte bij de etalage en keek er vijf minuten in."
+  },
+  "Boog, de": {
+    "translation": "arch, bend",
+    "example": "Wat een mooie antieke boog!"
+  },
+  "Op adem komen": {
+    "translation": "to catch one’s breath",
+    "example": "Na het rennen kom ik nauwelijks op adem."
+  },
+  "Aan iets is te zien dat…": {
+    "translation": "something shows that…",
+    "example": "Aan zijn gebaar is duidelijk te zien dat hij verdrietig is."
+  },
+  "Liggen |lag, heb gelegen|": {
+    "translation": "to lie",
+    "example": "Ik heb de hele dag in bed gelegen."
+  },
+  "Binnenkant, de": {
+    "translation": "inside",
+    "example": "De arts onderzoekt de binnenkant van mijn mond."
+  },
+  "Schikken |schikte, heb geschikt|": {
+    "translation": "to arrange, to comply, to adapt",
+    "example": "Ze schikte de bloemen in een vaas. Hij schikte de stoelen in een kring. Hij moet zich schikken naar de regels."
+  },
+  "Hoe dan ook": {
+    "translation": "nevertheless, either way",
+    "example": "Hoe dan ook, ik ga morgen naar het werk. Ik ga hoe dan ook morgen vertrekken. Hij komt niet. Hoe dan ook, het plan verandert niet."
+  },
+  "Vat, de": {
+    "translation": "barrel",
+    "example": "Een vat bier. Ik vat het niet. (= ik begrijp het niet) Dat is goed samengevat. Vat krijgen op iets (= controle krijgen)."
+  },
+  "Verveling": {
+    "translation": "boredom",
+    "example": "De verveling slaat toe. Uit verveling begon hij te tekenen."
+  },
+  "Zwerven |zwierf, heb gezworven|": {
+    "translation": "to wander",
+    "example": "Daklozen zwerven op straat. Honden zwerven rond in de wijk."
+  },
+  "Abrupt": {
+    "translation": "sudden, abrupt",
+    "example": "Het gesprek eindigde abrupt. De weg eindigde abrupt."
+  },
+  "Ongemakkelijk": {
+    "translation": "uncomfortable",
+    "example": "Ik zit in een ongemakkelijke positie."
+  },
+  "Schotel, de": {
+    "translation": "dish",
+    "example": "De schotels werden op tafel gezet. Een visschotel. Een tapas-schotel. Een satellietschotel op het dak."
+  },
+  "(te)vergeefs": {
+    "translation": "in vain",
+    "example": "Ik heb tevergeefs geprobeerd hem te bellen. Hij zocht tevergeefs naar zijn sleutels. Zijn strijd was tevergeefs."
+  },
+  "Dwaas": {
+    "translation": "foolish",
+    "example": "Wees niet zo'n dwaas. Hij maakte een dwaze beslissing. Dat was een dwaas idee. Wat een dwaas!"
+  },
+  "Beschaafd": {
+    "translation": "civilized",
+    "example": "Beschaafde mensen eten met mes en vork. Hij gedraagt zich beschaafd."
+  },
+  "Zaad, het": {
+    "translation": "seed",
+    "example": "Ik plant zaden en soms groeien ze. De plant is altijd in staat om zaden te produceren."
+  },
+  "Drukken op iemands schouders": {
+    "translation": "to put pressure on smbd",
+    "example": "Alweer voelde ik die overbekende last op mijn schouders drukken."
+  },
+  "Liegen |loog, heb gelogen|": {
+    "translation": "to lie",
+    "example": "Hij liegt tegen mij. Hij loog over zijn leeftijd. Waarom lieg je tegen mij?"
+  },
+  "Bederven |bedierf, heb bedorven|": {
+    "translation": "to rot, to spoil",
+    "example": "Het vlees is bedorven. Dat eten bederft in de warmte. Hij bederft het spel. Je bederft de sfeer."
+  },
+  "Aankomst, de": {
+    "translation": "arrival",
+    "example": "Hun aankomst valt samen met het begin van de conferentie."
+  },
+  "Aantekening, de": {
+    "translation": "note",
+    "example": "Tijdens de vergadering maakte ik veel belangrijke aantekeningen."
+  },
+  "Doemen |doemde, heb gedoemd|": {
+    "translation": "to doom",
+    "example": "Een donkere toekomst doemt op."
+  },
+  "Nestelen |nestelde, heb genesteld|": {
+    "translation": "to nestle",
+    "example": "Ze nestelt zich in haar schoot. De kat nestelt zich in zijn mand. Ze nestelde zich op de bank met een boek. Twijfel nestelt zich in haar hoofd."
+  },
+  "Flitsen |flitste, heb geflitst|": {
+    "translation": "to flash",
+    "example": "De camera flitste. Het licht flitst in het donker. De lichten flitsen in de verte. De bliksem flitst. Er flitste een idee door mijn hoofd."
+  },
+  "Tegel, de": {
+    "translation": "tile",
+    "example": "Er groeit geen gras tussen de tegels op de patio. Let op: losliggende tegels."
+  },
+  "Ongelovig": {
+    "translation": "disbelieving",
+    "example": "Ze keek me ongelovig aan. Hij schudde ongelovig zijn hoofd."
+  },
+  "Kostbaar": {
+    "translation": "expensive, valuable",
+    "example": "De materialen voor het bouwen van het huis leken kostbaar. Het is een kostbare auto. Er worden kostbare voorwerpen getoond in het museum"
+  },
+  "Losmaken |maakte los, heb losgemaakt|": {
+    "translation": "to release, to undo",
+    "example": "Ik maak de knoop los. De muziek maakte me los van mijn stress. Hij maakt zich los van zijn oude gewoontes."
+  },
+  "Omgeven |omgaf, heb omgeven|": {
+    "translation": "to surround",
+    "example": "De tuin was met een drie meter hoge muur omgeven."
+  },
+  "Ritueel, het": {
+    "translation": "ritual",
+    "example": "Toen ik in Noorwegen was, zag ik in een dorpje een vreemd ritueel."
+  },
+  "Beamen |beaamde, heb beaamd|": {
+    "translation": "to endorse",
+    "example": "Hij beaamde dat de informatie correct was. Ik kan dat alleen maar beamen. Iedereen beaamde het voorstel. De experts beamen deze conclusie."
+  },
+  "Worstelen |worstelde, heb geworsteld|": {
+    "translation": "to struggle, to fight",
+    "example": "Hij traint voor het Grieks-Romeins worstelen. De politie worstelde met de verdachte. Ik worstel met mijn huiswerk. Ze worstelt met een moeilijke beslissing."
+  },
+  "Halfslachtig": {
+    "translation": "half-assed, half-hearted",
+    "example": "Heb je een plan opgesteld of doe je het gewoon halfslachtig?"
+  },
+  "Waken |wakte, heb gewakt|": {
+    "translation": "to watch",
+    "example": "Zij waken over onze veiligheid. Mijn ouders waakten over me."
+  },
+  "De schuld geven": {
+    "translation": "to blame somebody",
+    "example": "Je moet loslaten; anders ga je jezelf voor altijd de schuld geven."
+  },
+  "Lint, het": {
+    "translation": "ribbon",
+    "example": "Ze droeg een jurk met blauw lint. Het rode lint werd ceremonieel doorgeknipt. Je mag niet achter het lint komen."
+  },
+  "Klimmen |klom, ben geklommen|": {
+    "translation": "to climb, generic",
+    "example": "Hij klimt in de boom. Ze klimt op de ladder."
+  },
+  "Beklimmen |beklom, heb beklommen|": {
+    "translation": "to climb, physically",
+    "example": "We hebben een heuvel naast het huis beklommen."
+  },
+  "Glans, de": {
+    "translation": "shine",
+    "example": "De glans van de auto is verdwenen. Haar haar heeft een mooie glans. Hij gaf zijn carrière extra glans met die prijs. De glans van het succes verdween snel."
+  },
+  "Uitbundig": {
+    "translation": "exuberant, with high energy",
+    "example": "Ze vierde haar verjaardag uitbundig. Hij begroette me uitbundig. De fans juichten uitbundig."
+  },
+  "Aldus": {
+    "translation": "thus",
+    "example": "Hij handelde aldus volgens de instructies. Aldus werd het probleem opgelost. De vergadering werd aldus afgesloten."
+  },
+  "Starten |startte, heb gestart|": {
+    "translation": "start, F",
+    "example": "De politie is een grote zoekactie gestart."
+  },
+  "Basis": {
+    "translation": "basis",
+    "example": "Deze ingrediënten vormen de basis van het gerecht."
+  },
+  "Uitvoeren |voerde uit, heb uitgevoerd|": {
+    "translation": "perform, carry out",
+    "example": "Hij voert de taak uit. De politie voert een onderzoek uit. We voeren het plan uit."
+  },
+  "Immers": {
+    "translation": "indeed, namely, because, F",
+    "example": "Hij is niet gekomen, hij was immers ziek. Je hoeft niet te haasten, we hebben immers tijd genoeg. Hij is thuis, hij was immers ziek. (=== Hij is thuis, want hij was ziek.)"
+  },
+  "Huidig": {
+    "translation": "current",
+    "example": "De huidige situatie kan sterk verbeterd worden."
+  },
+  "Strijd, de": {
+    "translation": "battle",
+    "example": "Haar innerlijke strijd was onzichtbaar. De strijd tussen de twee legers duurde jaren. Er is een strijd tussen de twee bedrijven."
+  },
+  "Positief": {
+    "translation": "positive",
+    "example": "Mijn ervaring met deze winkel was positief. Ik doe mijn best om positief te blijven, omdat ik anders een sombere man zal worden."
+  },
+  "Cijfer, het": {
+    "translation": "number, mark, grade",
+    "example": "Die cijfers geven een vertekend beeld. (vertekend === distorted) Deze cijfers zijn bewijs dat de welvaart afneemt."
+  },
+  "Inwoner/bewoner": {
+    "translation": "resident",
+    "example": "De inwoners van Utrecht (stad). De bewoners van dat appartement (gebouw)."
+  },
+  "Wegens": {
+    "translation": "because of, F",
+    "example": "De trein is vertraagd wegens slecht weer. Het evenement is afgelast wegens ziekte."
+  },
+  "Regio, de": {
+    "translation": "region",
+    "example": "Dit land bestaat uit verschillende regio's."
+  },
+  "Zinloos": {
+    "translation": "pointless",
+    "example": "Het is zinloos om te lopen in plaats van de trein te nemen. Het is zinloos om je zorgen te maken. Het is zinloos om dat nog eens te proberen. Het is zinloos om boos te blijven over iets kleins."
+  },
+  "Financieel": {
+    "translation": "financial",
+    "example": "In financieel opzicht is deze bestelling zinloos."
   }
 }

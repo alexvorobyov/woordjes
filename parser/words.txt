@@ -45,7 +45,7 @@ Aanleiding (reason): Er is daarom geen enkele aanleiding om dit opnieuw te bespr
 
 Steken |stak, gestoken| (stab or put): Hij steekt de sleutel in het slot.
 
-Menen (believe): Ik weet het, maar dit keer menen we het echt.
+Menen |meende, heb gemeend| (believe): Ik weet het, maar dit keer menen we het echt.
 
 Af en toe (occasionally): Het is nuttig om het land af en toe te verlaten.
 
@@ -107,7 +107,7 @@ Opdracht/taak (task/task as job/duty): Het is de taak van een brandweerman om me
 Voorlopig (provisional, for now, for the time being): Hij zegt dat je op de sofa mag blijven, voorlopig. 
 Geluk (happiness, luck): Volgens de brandweer heeft de man veel geluk gehad.
 2 Sept 2025
-Geraken, raken (touch, lose, to end up in a situation):
+Geraken, raken |raakte, heb gerakt| (touch, lose, to end up in a situation):
 	Touch: Ik raakte de bal met mijn hand.
 	To lose something: Hij raakte zijn baan kwijt.
 	To be touched emotionally: Dat lied raakte me echt.
@@ -288,7 +288,7 @@ Glijden |gleed, heb gegleden| (slide on/through something): Zelfs de skins hebbe
 
 Schreeuwen (to shout): Als we naar beneden gaan, wil ik dat u tegen me schreeuwt.
 
-Werpen (to throw): Twee lampjes werpen licht op het donkerbruine blad. Ze werpt me tegen de muur en doet mijn rits open.
+Werpen |wierp, heb geworpen| (to throw): Twee lampjes werpen licht op het donkerbruine blad. Ze werpt me tegen de muur en doet mijn rits open.
 
 1 Oct 2025
 Haast (almost): Het zou haast poëtisch zijn als het niet zo balen was. (balen was == sucked)
@@ -411,7 +411,7 @@ Traag (slow): Dit resulteert in een traag en kostbaar proces voor de klant.
 Vaag (vague): Dit klinkt best vaag en dat maakt het een lastige klus. (lastige klus = difficult job)
 
 13 Oct 2025
-Vegen (sweep): Hij veegt de suiker van mijn lippen zodat hij me kan proeven.
+Vegen |veegde, heb geweegd| (sweep): Hij veegt de suiker van mijn lippen zodat hij me kan proeven.
 
 Daarbij (with it): En als jij mijn vriend bent, help je mij daarbij.
 
@@ -690,7 +690,7 @@ Evenmin (neither, also no): En ik kon evenmin iets doen. Ik heb hem niet gezien,
 
 Tasten (to grasp, to scan): De pers schrijft dat we in het duister tasten.
 
-Zweven (to float): In de ruimte rondom onze planeet zweeft veel afval rond.
+Zweven |zweefde, heb gezweefd| (to float): In de ruimte rondom onze planeet zweeft veel afval rond.
 
 Dadelijk (immediately): Laat het me dan dadelijk weten.
 
@@ -751,7 +751,7 @@ Tegemoet (towards): De groep ziet de tweede helft van dit jaar met vertrouwen te
 
 Medelijden, het (pity, sorry): Hij had een beetje medelijden met haar (== He felt a little sorry for her)
 
-Bevrijden (to free): Hij bevrijdt zijn linkerarm.
+Bevrijden |bevrijdde, heb bevrijd| (to free): Hij bevrijdt zijn linkerarm.
 
 Somber (gloomy, bleak): Ik heb de toekomst gezien, en die is somber.
 12 Nov 2025
@@ -779,7 +779,7 @@ Angstig (anxious): Hij zag haar angstige blik.
 14 Nov 2025
 Omdraaien zich (to turn (round)): Hij draait zich om en komt terug. Hij had zich omgedraaid en gezien dat zij het was.
 
-Bezorgen (deliver, give, provide): Het was niet mijn bedoeling om jou onnodig werk te bezorgen.
+Bezorgen |bezorgde, heb bezorgd| (deliver, give, provide): Het was niet mijn bedoeling om jou onnodig werk te bezorgen.
 15 Nov 2025
 Ik nam een pauze omdat mijn ouders op bezoek kwamen en we gingen naar Den Haag om een wandeling te maken en Mauritshuis te bezoeken. Mijn moeder vond het museum heel leuk, zelfs mijn vader bleek een beetje geïnteresseerd, hoewel hij musea met schilderijen altijd saai vindt. Mijn moeder wilde “het meisje met de parel” bekijken en ze was niet teleurgesteld: het schilderij was in het echt heel mooi, zelfs beter dan op de foto’s.
 
@@ -873,7 +873,7 @@ Aandachtig (attentive): Ze waren aandachtig, maar toch zeer respectvol voor onze
 Peinzen (to ponder, to think about something carefully, OW): Na het ongeluk dacht ik dat je er niet over zou peinzen.
 	Een beetje ouderwets, in normale spreektaal gebruikt men: nadenken, overdenken
 
-Sluipen (to sneak): Hij sluipt in de tuin en eet de appel zonder toestemming.
+Sluipen |sloop, ben geslopen| (to sneak): Hij sluipt in de tuin en eet de appel zonder toestemming.
 
 Spotten |spotte, heb gespot| (to joke, to mock): Hij durfde het niet aan met de man van de belasting te spotten.
 1 Dec 2025
@@ -1092,7 +1092,7 @@ Tot ziens in het nieuwe jaar!
 7 Jan 2026
 Ach (oh well): Ach, dat geeft toch helemaal niks (that doesn’t matter at all)
 
-Prikken (to prick): Zorg ervoor dat je jezelf niet prikt met de naald.
+Prikken |prikte, heb geprikt| (to prick): Zorg ervoor dat je jezelf niet prikt met de naald.
 
 Wanhoop, de (despair): Ik zie wanhoop in de ogen van de mensen die in deze fabriek werken.
 
@@ -1103,7 +1103,6 @@ Lusten (to like): Ik zou wel een glas wijn lusten.
 Breed (wide): De weg is vijf meter breed.
 	wijd = open / uit elkaar / ruim
 breed = afmeting, meetbaar
-
 
 Hak, de (heel): Schoenen met hakken worden uit de productie genomen.
 
