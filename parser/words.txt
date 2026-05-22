@@ -9,7 +9,7 @@ De mannen hebben een eenvoudige taak gekregen van zijn baas: hij wil dat ze niet
 
 Ik vrees dat ik toch moeite heb met het pakket.
 
-Beseffen (realise): zich ervan bewust zijn. Hij beseft dat hij minder gemeen heeft met bepaalde vrienden dan hij dacht.
+Beseffen |besefte, heb beseft| (realise): zich ervan bewust zijn. Hij beseft dat hij minder gemeen heeft met bepaalde vrienden dan hij dacht.
 
 Optreden (appear, occur): in een vroeg stadium van de ziekte kunnen meer problemen optreden.
 
@@ -71,7 +71,7 @@ Wellicht (possibly): Ze is wellicht de enige vrouw tegen wie je niet liegt.
 
 Alweer (again): Ik kan niet geloven dat het alweer de derde week is.
 
-Schuiven |schoof, heb geschoven| (slide under something): Goed, ik schuif de cheque wel onder je deur.
+Schuiven |schoof, heb geschoven| (slide under something): Goed, ik schuif de cheque wel onder je deur. Ik schuif op de stoel zonder op te staan. 
 
 Waardoor (as a result of which): Het was heerlijk rustig waardoor wij optimaal konden genieten van alles.
 
@@ -230,7 +230,7 @@ Behoefte (need): Ze dekken de dagelijkse behoefte van het lichaam aan deze stoff
 
 Allebei (both): Deze producten zijn allebei bij elke leeftijd uitstekend voor de huid.
 
-Bewaren (keep): Wat we hier doen is een geheim dat ik bewaar voor mijn mensen.
+Bewaren |bewaarde, heb bewaard| (keep): Wat we hier doen is een geheim dat ik bewaar voor mijn mensen.
 
 Uitleggen (explain): Ik zal u uitleggen waarom dit soort details zo belangrijk zijn.
 
@@ -451,11 +451,11 @@ Heffen |hief, geheven| (to lift): Deze barbell is niet geschikt voor het heffen 
 
 Wekken (wake up, somebody else): Ze slaapt maar alleen ik kan haar wekken.
 
-Strelen (to caress, to stroke): Hij streelde haar over het haar. Ik streel de kat.
+Strelen |streelde, heb gestreeld| (to caress, to stroke): Hij streelde haar over het haar. Ik streel de kat.
 
 Bezitten (to possess): Ze bezat een uitstekend verstand. (vestand == intellect).
 
-Slagen (to succeed): Als hij slaagt in zijn opdracht, krijgt hij 300 miljoen dollar.
+Slagen |slaagde, ben geslaagd| (to succeed): Als hij slaagt in zijn opdracht, krijgt hij 300 miljoen dollar.
 17 Oct 2025
 In het park zat een stel op een bankje, hand in hand. De zon scheen helder door de bomen en liet het water in de vijver zacht glanzen.
 Plots sprong er een hond uit de struiken en zette zijn poot op de picknickmand. De vrouw keek hem eerst met verbazing aan, maar de man reageerde met woede toen de hond een stuk brood greep en ermee wegrende.
@@ -478,7 +478,7 @@ Stel (couple, set): In een ander leven, zouden we een perfect stel zijn.
 18 Oct 2025
 Volkomen (completely, F): Onze cliënt deed niets verkeerd, zijn product is volkomen veilig. Dat is volkomen onmogelijk.
 
-Duiken (to dive): We duiken in het zwembad.
+Duiken |dook, heb gedoken| (to dive): We duiken in het zwembad.
 
 Tillen |tilde, word getild| (to lift): Wanneer een van ons valt, tillen de anderen hem op.
 	Tillen: iets met je handen optillen (meestal fysiek, letterlijk). Kun je deze doos tillen?
@@ -491,7 +491,7 @@ Overkant, de (other side): Aan de overkant van de gracht is meer te beleven.
 In de oude woonkamer, waar alles zo vertrouwd aanvoelde, begon Anna haar spullen in te pakken. Ze wilde weg, maar elke blik op de vergeelde foto’s aan de wand deed haar aarzelen.
 Ze voelde hoe de spanning in haar borst groeide; ze probeerde kalm te blijven, maar kon zich niet langer opwinden over wat er allemaal mis was gegaan.
 Met een diepe zucht strekte ze haar armen, alsof ze zo de zwaarte van het moment van zich af kon schudden. Buiten begon de regen zachtjes tegen het raam te tikken, tot plots de donder in de verte barstte — als een echo van haar eigen gevoel.
-Strekken (to straighten): Hij strekt zijn lange benen.
+Strekken |strekte, heb gestrekt| (to straighten): Hij strekt zijn lange benen.
 
 Spul, het (stuff, things): Ik ga zelf de spullen in zijn villa ophalen.
 
@@ -759,7 +759,7 @@ Grijnzen (to smile broadly): Je grijnst de laatste tijd zo raar, alsof je iets v
 
 Waaien |waaide, heb gewaaid| (to blow): Over het land waait een koude wind.
 
-Doordringen (to penetrate, to get through): Ik dring niet door tot die man.
+Doordringen |drong door, ben doorgedrongen| (to penetrate, to get through): Ik dring niet door tot die man.
 
 Kreet, de (cry): Een kreet van wanhoop, maar zijn roep wordt niet beantwoord.
 13 Nov 2025
@@ -767,7 +767,7 @@ Bukken zich (to bend): Ze bukt zich en tekent lijnen door de sneeuw.
 	bukken = praktisch, fysiek, om iets te doen (laag gaan)
 	buigen = meer symbolisch of beleefd, of gewoon iets krom maken
 
-Slap (weak): De spieren in mijn arm zijn slap na het gips.
+Slap (weak): De spieren in mijn arm zijn slap na het gips. Slappe excuses, slappe koffie, slap argument.
 	Slap → heeft te maken met gebrek aan stevigheid of spanning (fysiek of figuurlijk).
 	Zwak → gaat over gebrek aan kracht, macht of vermogen (lichamelijk, moreel of mentaal).
 
@@ -879,7 +879,7 @@ Spotten |spotte, heb gespot| (to joke, to mock): Hij durfde het niet aan met de 
 1 Dec 2025
 Kreunen (to groan, to make a sound conveying pain): Hij kreunt van de pijn. 
 
-Grinniken (to chuckle): Ik moest grinniken om deze vraag.
+Grinniken |grinnikte, geb gegrinnikt| (to chuckle): Ik moest grinniken om deze vraag.
 
 Troosten (to comfort): Ze probeerde oma te troosten en hielp haar met de huishouding.
 
@@ -932,7 +932,7 @@ Opsteken |stak op, heb opgestoken| (to light up): Ik heb een sigaretje opgestoke
 
 Emotie, de (emotion): Ik begreep niet welke emotie ik nodig had voor m'n tekst.
 
-Slingeren (swing): De boot slingert op de golven. Hij slingerde de tas over zijn schouder. Een touw slingert tussen de wanden heen en weer.
+Slingeren |slingerde, heb geslingerd| (swing): De boot slingert op de golven. Hij slingerde de tas over zijn schouder. Een touw slingert tussen de wanden heen en weer.
 
 Hartelijk (warm): Ze was een lieve hartelijke vrouw en ze deed veel voor ons allemaal. 
 
@@ -1083,7 +1083,7 @@ Struikelen (to stumble): Ik struikelde over een losse steen. Pas op dat je niet 
 
 Bewondering, de (admiration): Ze kijkt me diep in de ogen met een blik vol bewondering en liefde.
 
-Ontwijken (to avoid): Ik neem altijd de andere weg om hem te ontwijken.
+Ontwijken |ontweek, werd ontweken| (to avoid): Ik neem altijd de andere weg om hem te ontwijken.
 18 Dec 2025 - 6 Jan 2026
 Ik neem tot vijf januari een pauze. We gaan samen met Nina naar Thailand door Londen. Het was goedkoper om vanuit Londen te vliegen. Schiphol wordt steeds duurder, toch?
 In Thailand gaan we naar Bangkok en daarna naar Koh Samui waar we van plan zijn om op het strand te liggen. Onze vrienden vanuit Rusland en Duitsland komen ook. 
@@ -1106,7 +1106,7 @@ breed = afmeting, meetbaar
 
 Hak, de (heel): Schoenen met hakken worden uit de productie genomen.
 
-Bladeren (to glance through): Hij bladerde door het fotoalbum. Ze bladerde door het magazine in de wachtkamer.
+Bladeren |bladerde, heb gebladerd| (to glance through): Hij bladerde door het fotoalbum. Ze bladerde door het magazine in de wachtkamer.
 9 Jan 2026
 Kaars, de (candle): Elke dag branden we een kaars en hopen op het beste.
 
