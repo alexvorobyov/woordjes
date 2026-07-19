@@ -15,7 +15,7 @@
     "translation": "realise",
     "example": "zich ervan bewust zijn. Hij beseft dat hij minder gemeen heeft met bepaalde vrienden dan hij dacht."
   },
-  "Optreden": {
+  "Optreden |trad op, word opgetreden|": {
     "translation": "appear, occur",
     "example": "in een vroeg stadium van de ziekte kunnen meer problemen optreden."
   },
@@ -47,7 +47,7 @@
     "translation": "of course, naturally",
     "example": "uiteraard hebben we in sportief opzicht veel aan hem te danken."
   },
-  "Beschouwen": {
+  "Beschouwen |beschouwde, heb beschouwd|": {
     "translation": "consider",
     "example": "ik beschouw alles wat ik krijg als mooi meegenomen"
   },
@@ -63,9 +63,9 @@
     "translation": "to carry out",
     "example": "maar wat een dom gesprek voeren ze"
   },
-  "Ontstaan": {
+  "Ontstaan |ontstond, ben ontstaan|": {
     "translation": "start",
-    "example": "de brand is ontstaan door kortsluiting"
+    "example": "De brand is ontstaan door kortsluiting. Er is een probleem ontstaan. Het idee ontstond tijdens een gesprek. Er ontstond paniek."
   },
   "Degelijk": {
     "translation": "sound",
@@ -103,7 +103,7 @@
     "translation": "angry, evil",
     "example": "Dus geef hem geen reden om kwaad op je te worden."
   },
-  "Verlopen": {
+  "Verlopen |verliep, ben verlopen|": {
     "translation": "to go",
     "example": "Het spel verliep zeer succesvol met de makers."
   },
@@ -145,7 +145,7 @@
   },
   "Zomaar": {
     "translation": "just, zonder reden of oorzaak of beperking of voorwaarde",
-    "example": "Nee, dit zijn niet zomaar wegen om op te rijden."
+    "example": "Nee, dit zijn niet zomaar wegen om op te rijden. Hij liep zomaar weg. Ze begon zomaar te lachen."
   },
   "Bewijzen": {
     "translation": "to prove",
@@ -167,9 +167,9 @@
     "translation": "link, bandage",
     "example": "Mijnheer de Voorzitter, ik wil in dit verband een opmerking maken die mij na aan het hart ligt."
   },
-  "Betreffen": {
+  "Betreffen |betrof, heb betroffen|": {
     "translation": "to concern",
-    "example": "Sergeant, het betreft een actief federaal onderzoek... die informatie is geheim."
+    "example": "Sergeant, het betreft een actief federaal onderzoek... die informatie is geheim. Het betreft een vrouw die haar sleutel vergeten is."
   },
   "Opdracht/taak": {
     "translation": "task/task as job/duty",
@@ -247,7 +247,7 @@
     "translation": "turn",
     "example": "De leerlingen voeren om de beurt een opdracht uit."
   },
-  "Opstellen": {
+  "Opstellen |stelde op, heb opgesteld|": {
     "translation": "to draw up",
     "example": "Voordat je onderzoek doet, is het belangrijk dat je een plan opstelt."
   },
@@ -287,7 +287,7 @@
     "translation": "anyway, by the way",
     "example": "Het is trouwens geen geheim, ik weet er alles van."
   },
-  "Herkennen": {
+  "Herkennen |herkende, heb herkend|": {
     "translation": "recognize",
     "example": "Er was een foto van een jongetje die ik meteen herkende."
   },
@@ -365,7 +365,7 @@
   },
   "Aannemen": {
     "translation": "assume",
-    "example": "Afhankelijk van het ras, kunnen de bloemen grote proporties aannemen. Ik neem aan dat je slim bent."
+    "example": "Afhankelijk van het ras, kunnen de bloemen grote proporties aannemen. Ik neem aan dat je slim bent. Het probleem nam grote proporties aan."
   },
   "Herhaal": {
     "translation": "repeat",
@@ -423,11 +423,11 @@
     "translation": "remark, comment",
     "example": "Anne negeert de opmerking van haar zus."
   },
-  "Opvallen": {
+  "Opvallen |viel op, ben opgevallen|": {
     "translation": "to strike, to catch an eye",
     "example": "Met stylen kun je je foto uniek maken en laten opvallen."
   },
-  "Overkomen": {
+  "Overkomen |kwam over, heb overgekomen|": {
     "translation": "to happen to",
     "example": "Maak je niet druk, het overkomt de beste van ons. Zorg maar dat het jou niet overkomt."
   },
@@ -721,7 +721,7 @@
   },
   "Strak": {
     "translation": "tight",
-    "example": "Ik draag een zwarte strakke broek."
+    "example": "Ik draag een zwarte strakke broek. Het touw staat strak. Hij heeft een strak kapsel."
   },
   "Traag": {
     "translation": "slow",
@@ -1067,11 +1067,11 @@
     "translation": "to be ashamed",
     "example": "Ik schaam me diep dat ik u dit moet vertellen."
   },
-  "Glimmen": {
+  "Glimmen |glom, heb geglommen|": {
     "translation": "to shine, to glow",
     "example": "Haar gezicht was nat en glom in de zon."
   },
-  "Onderbreken": {
+  "Onderbreken |onderbrak, heb onderbroken|": {
     "translation": "to interrupt",
     "example": "Hoe vaak onderbreekt u mensen tijdens het praten?"
   },
@@ -1160,7 +1160,7 @@
     "example": "Ze ademde diep en hield de adem in."
   },
   "Voorover": {
-    "translation": "face forward",
+    "translation": "face forward, headfirst",
     "example": "Hij ligt voorover in de sneeuw."
   },
   "Ergeren zich": {
@@ -1291,7 +1291,7 @@
     "translation": "to surprise",
     "example": "Ik verwonder mij altijd bij deze voorstellingen."
   },
-  "Betrappen": {
+  "Betrappen |betrapte, heb betrapt|": {
     "translation": "to catch",
     "example": "Dezelfde dag betrapte dezelfde politieagent de verdachte nog eens."
   },
@@ -1325,7 +1325,7 @@
   },
   "Tegemoet": {
     "translation": "towards",
-    "example": "De groep ziet de tweede helft van dit jaar met vertrouwen tegemoet. Zij komt me tegemoet."
+    "example": "De groep ziet de tweede helft van dit jaar met vertrouwen tegemoet. Zij komt me tegemoet. De winkel kwam mij tegemoet met een korting."
   },
   "Medelijden, het": {
     "translation": "pity, sorry",
@@ -1355,9 +1355,9 @@
     "translation": "cry",
     "example": "Een kreet van wanhoop, maar zijn roep wordt niet beantwoord."
   },
-  "Bukken zich": {
+  "Bukken": {
     "translation": "to bend",
-    "example": "Ze bukt zich en tekent lijnen door de sneeuw."
+    "example": "Ze bukt en tekent lijnen door de sneeuw."
   },
   "Slap": {
     "translation": "weak",
@@ -1475,7 +1475,7 @@
     "translation": "invisible",
     "example": "Een van die dingen is hier binnen en het is onzichtbaar."
   },
-  "Bekennen": {
+  "Bekennen |bekende, heb bekend|": {
     "translation": "to confess",
     "example": "Ik moet je bekennen dat ik het altijd verkeerd heb gezien."
   },
@@ -1491,7 +1491,7 @@
     "translation": "handkerchief",
     "example": "Met een zakdoek veegde hij zijn vingers schoon."
   },
-  "Fluiten": {
+  "Fluiten |floot, heb gefloten|": {
     "translation": "to whistle",
     "example": "Ik fluit een melodie."
   },
@@ -1600,8 +1600,8 @@
     "example": "Ik was dol op u in die film…"
   },
   "Opsteken |stak op, heb opgestoken|": {
-    "translation": "to light up",
-    "example": "Ik heb een sigaretje opgestoken."
+    "translation": "to raise a hand, to light up",
+    "example": "Ik stak mijn hand op. Wie weet het antwoord? Steek je hand op. Ik heb een sigaretje opgestoken."
   },
   "Emotie, de": {
     "translation": "emotion",
@@ -1667,7 +1667,7 @@
     "translation": "to kiss",
     "example": "Misschien moesten we wat minder nadenken en wat meer zoenen."
   },
-  "Blozen": {
+  "Blozen |bloosde, heb gebloosd|": {
     "translation": "to blush",
     "example": "Ze bloosde toen hij haar complimenteerde."
   },
@@ -1713,9 +1713,9 @@
   },
   "Gloeien |gloeide, heb gegloeid|": {
     "translation": "to glow",
-    "example": "Ik eet liever iets dat niet in donker gloeit."
+    "example": "Ik eet liever iets dat niet in het donker gloeit."
   },
-  "Smijten": {
+  "Smijten |smeet, heb gesmeten|": {
     "translation": "to throw, to fling",
     "example": "Hij smijt de peer tegen de muur."
   },
@@ -1827,7 +1827,7 @@
     "translation": "to lift, F",
     "example": "Ze lichtte het kind voorzichtig op."
   },
-  "Irriteren": {
+  "Irriteren |irriteerde, heb geïrriteerd|": {
     "translation": "to irritate",
     "example": "De stemmen die mij ergeren en irriteren kan ik meteen tot zwijgen brengen."
   },
@@ -1987,7 +1987,7 @@
     "translation": "facade",
     "example": "De gevel van het huis werd gerenoveerd. De gevel stond in de steigers."
   },
-  "Schelden": {
+  "Schelden |schold, heb gescholden|": {
     "translation": "to curse",
     "example": "Hij begon te schelden toen hij zijn sleutels niet kon vinden. De man stond luid te schelden op straat. Hij scheldt altijd als hij gefrustreerd raakt."
   },
@@ -2083,7 +2083,7 @@
     "translation": "isn’t it, F, OW",
     "example": "Dat heb je goed gedaan, nietwaar?"
   },
-  "Druipen": {
+  "Druipen |droop, ben gedropen|": {
     "translation": "to drip",
     "example": "Het water druipt van het dak. Zijn neus druipt. Hij druipt van het zelfvertrouwen."
   },
@@ -2279,7 +2279,7 @@
     "translation": "dull, not sharp",
     "example": "Zij staart met doffe ogen naar de muur. Ik hoorde een dof geluid achter me. Het licht in de kamer is dof. Ze droeg een doffe grijze jas."
   },
-  "Wankelen": {
+  "Wankelen |wankelde, wordt gewankeld|": {
     "translation": "to stagger, to become unsure about",
     "example": "Het kind wankelde op zijn eerste stappen. Het vertrouwen wankelt."
   },
@@ -2295,7 +2295,7 @@
     "translation": "to cross, to meet somebody",
     "example": "De wegen kruisen elkaar hier. De lijnen kruisen elkaar op het diagram. Ze kruisten elkaar op de trap."
   },
-  "Wenken": {
+  "Wenken |wenkte, heb gewenkt|": {
     "translation": "to beckon, make a gesture to summon",
     "example": "Hij wenkt me om naar hem te komen."
   },
@@ -2616,15 +2616,15 @@
     "example": "Het water was er altijd in beweging door de botsing met de rotsen."
   },
   "Stuiten |stuitte, heb gestuit|": {
-    "translation": "to encounter, to stop, F, OW",
-    "example": "Zijn plannen stuiten op veel kritiek bij het bestuur. Het onderzoek stuitte op onvoorziene moeilijkheden."
+    "translation": "to encounter, to stop",
+    "example": "Tijdens het onderzoek stuitte de politie op nieuw bewijs. Ik stuitte op een interessant artikel. Het voorstel stuitte op veel kritiek. De beslissing stuitte op onbegrip. De boot stuitte tegen een rots. Ik stuitte op een probleem."
   },
   "Gelaat, het": {
     "translation": "face, F, L",
     "example": "Zijn gelaat vertoonde een ernstige uitdrukking."
   },
   "Nalaten |liet na, geb nagelaten|": {
-    "translation": "to refrain from, to leave, F",
+    "translation": "to refrain from, to leave, F, OW",
     "example": "Hij heeft zijn plichten nagelaten. Je mag deze taak niet nalaten. Hij heeft een groot vermogen nagelaten aan zijn kinderen. Ze liet een brief na voor haar familie. Het nalaten van onderhoud kan gevaarlijk zijn."
   },
   "Wreed": {
@@ -2845,7 +2845,7 @@
   },
   "Prestatie, de": {
     "translation": "performance",
-    "example": "Dat was een geweldige prestatie. De prestaties van het team waren goed. De prestatie moet volgens het contract geleverd worden."
+    "example": "Haar prestaties op school zijn uitstekend. Het team leverde een sterke prestatie. Ze zette een uitzonderlijke prestatie neer. De onderzoekers verrichtten een belangrijke prestatie. Het was een knappe prestatie om de marathon uit te lopen. De prestaties van de auto zijn uitstekend."
   },
   "Vergissing, de": {
     "translation": "mistake",
@@ -3395,7 +3395,7 @@
     "translation": "busy, crowded, pressure",
     "example": "Ik ben druk. Ik heb het druk op het werk. De winkel was erg druk. Het was druk op straat. Ik voel veel druk. De druk van de banden is te laag."
   },
-  "Uitspraak, het": {
+  "Uitspraak, de": {
     "translation": "pronunciation, statement",
     "example": "De uitspraak van dit woord is lastig. Hij heeft een duidelijke uitspraak. De uitspraak van de rechtbank volgde later. De uitspraak veroorzaakte veel discussie."
   },
@@ -3656,7 +3656,7 @@
     "example": "Zij beschermen het land."
   },
   "Erkennen |erkende, heb erkend|": {
-    "translation": "to recognize, to acknowledge",
+    "translation": "to admit, acknowledge, to recognize,",
     "example": "Hij erkende zijn fout. Ik erken mijn slechte gewoonten. De staat erkende het land officieel. Ze erkende dat ze ongelijk had. De regering erkent dat de nieuwe belastingen iedereen armer kunnen maken, maar ze doen er niets aan om dat op te lossen."
   },
   "Omstandigheid": {
@@ -3682,5 +3682,413 @@
   "Reeds": {
     "translation": "already, F",
     "example": "Het project is reeds gestart."
+  },
+  "Maatschappij, de": {
+    "translation": "society",
+    "example": "De maatschappij is veranderd."
+  },
+  "Baseren |baseerde, heb gebaseerd|": {
+    "translation": "to base",
+    "example": "Hij baseert zijn keuze op ervaring. Ze baseert haar mening op feiten."
+  },
+  "Compleet": {
+    "translation": "complete",
+    "example": "Dat is compleet absurd. Ik was compleet vergeten dat we afspraken hadden. Deze onderdelen completeren het apparaat. Na het installeren van de wielen is de auto compleet."
+  },
+  "Herstellen |herstelde, heb hersteld|": {
+    "translation": "to recover, to repair",
+    "example": "Hij herstelde van zijn ziekte. Ze herstelt langzaam van de operatie. Ze hebben de brug hersteld. Mijn telefoon moet hersteld worden. De economie herstelt zich langzaam."
+  },
+  "Ontkennen |ontkende, heb ontkend|": {
+    "translation": "to deny",
+    "example": "een feit ontkennen, de waarheid ontkennen, beschuldigingen ontkennen, iets stellig ontkennen. Hij ontkende de beschuldigingen. De verdachte ontkent alles."
+  },
+  "Invoeren |voerde in, heb ingevoerd|": {
+    "translation": "to introduce, to implement",
+    "example": "De regering voert een nieuwe belasting in. Er wordt een verbod ingevoerd. Het bedrijf voert een nieuw systeem in."
+  },
+  "Zege, de": {
+    "translation": "victory, F, L",
+    "example": "De zege van de democratie, een historische zege, de zege van het team."
+  },
+  "Verlies": {
+    "translation": "loss",
+    "example": "Vanwege de verkoop van de aandelen maakte het bedrijf een verlies van een miljoen euro."
+  },
+  "Plannen |plande, heb gepland|": {
+    "translation": "to plan",
+    "example": "We plannen een reis. Ik heb al plannen vanavond. Ze zijn van plan om de reis te verlengen. Het plan is om de reis te verlengen."
+  },
+  "Proces, het": {
+    "translation": "process",
+    "example": "Het hele proces verliep voorspoedig. Het leerproces duurt lang. Het proces van herstel. Het proces verloopt traag."
+  },
+  "Verdenken |verdacht, heb verdacht|": {
+    "translation": "to suspect",
+    "example": "Hij wordt verdacht van diefstal. Ik verdacht mijn buurman van het maken van de rommel in mijn tuin. Ik verdenk hem ervan dat hij liegt."
+  },
+  "Aandelen, het": {
+    "translation": "share",
+    "example": "Ik bezit duizend aandelen van mijn bedrijf."
+  },
+  "Toenemen |nam toe, zijn toegenomen|": {
+    "translation": "to increase",
+    "example": "De belangstelling is weer aan het toenemen. De drukte in de stad neemt toe. Het aantal toeristen neemt toe. De inflatie neemt toe. Zijn pijn neemt toe. De temperatuur neemt toe. Ik ging weer naar de huisarts omdat mijn pijn was toegenomen."
+  },
+  "Verbeteren |verbeterde, heb verbeterd|": {
+    "translation": "to improve",
+    "example": "De gemeente verbetert de wegen. Ik probeer mijn Nederlands te verbeteren. Ze verbeteren de infrastructuur in de stad. Het systeem wordt voortdurend verbeterd."
+  },
+  "Iets met moord en brand eisen": {
+    "translation": "demand something urgently",
+    "example": "De bewoners eisten met moord en brand een oplossing voor het verkeer. De werknemers eisten met moord en brand betere werkomstandigheden."
+  },
+  "Met moord en brand schreeuwen": {
+    "translation": "ask for help in panic",
+    "example": "Hij schreeuwde met moord en brand omdat hij vastzat in de lift. De vrouw riep met moord en brand om hulp tijdens de brand."
+  },
+  "Moord, de": {
+    "translation": "murder",
+    "example": "De politie onderzoekt een moord op een man uit Amsterdam-Oost."
+  },
+  "Vrijwel": {
+    "translation": "almost",
+    "example": "Het probleem is vrijwel opgelost. Hij is vrijwel nooit thuis. De zaal was vrijwel leeg."
+  },
+  "Verklaring, de": {
+    "translation": "statement, F",
+    "example": "Hij gaf een verklaring voor zijn gedrag. De politie vraagt om een verklaring. De oorzaak is nog niet verklaard."
+  },
+  "Afslag, de": {
+    "translation": "turn",
+    "example": "De weg in de bergen heeft veel afslagen."
+  },
+  "Principe, het": {
+    "translation": "principle",
+    "example": "Dat is een belangrijk principe van de democratie. Uit principe doe ik dat niet. In principe is alles mogelijk. In principe heb ik morgen tijd."
+  },
+  "Effect, het": {
+    "translation": "effect",
+    "example": "Het effect van de regen was het natte wegdek. Het beleid heeft negatieve effecten. Het medicijn had veel effect."
+  },
+  "Oorzaak, de": {
+    "translation": "cause",
+    "example": "De oorzaak van de brand was kortsluiting. Stress is de oorzaak van zijn klachten."
+  },
+  "Maal, de/het": {
+    "translation": "time, meal",
+    "example": "maaltijd, eenmaal, tweemaal, hoeveel maal heb ik het gezegd?"
+  },
+  "Boete, de": {
+    "translation": "fine",
+    "example": "Ik heb een boete gekregen omdat ik te hard reed. Als je je afval in de verkeerde bak gooit, krijg je een boete."
+  },
+  "Klagen |klaagde, heb geklaagd|": {
+    "translation": "to complain",
+    "example": "Hij heeft de hele nacht geklaagd. Ik heb bij de manager geklaagd. Hij klaagt over het lawaai."
+  },
+  "Indien": {
+    "translation": "if, formeel als",
+    "example": "Indien nodig, neem contact op. Ik wil deze documenten graag, indien mogelijk, ontvangen."
+  },
+  "Dossier, het": {
+    "translation": "file",
+    "example": "De arts bekeek mijn dossier. De politie bouwt een dossier op. De politieagent zei dat hij/zij een dossier over mij heeft."
+  },
+  "Terechtkomen in": {
+    "translation": "to end up in",
+    "example": "Hij kwam in een ongemakkelijke situatie terecht. Hij is in een vreemde stad terechtgekomen."
+  },
+  "Zogenaamd": {
+    "translation": "so-called",
+    "example": "De zogenaamd goedkope auto bleek duur te zijn. Hij is een zogenaamd expert. De zogenaamd perfecte oplossing loste eigenlijk niets op. Hij woont zogenaamd in België."
+  },
+  "De pest aan iemand hebben": {
+    "translation": "to hate somebody",
+    "example": "Ik heb de pest aan hem."
+  },
+  "Geheel, het": {
+    "translation": "whole",
+    "example": "Alle gidsen beschrijven het land als geheel. Hij at de gehele appel. Dat is geheel onmogelijk. Ik ben het daar geheel mee eens. De gehele wereld kijkt naar deze uitzending."
+  },
+  "Veiligheid, de": {
+    "translation": "safety",
+    "example": "Je moet een veiligheidssysteem installeren zodat de verzekering je auto dekt. De veiligheid van de bevolking is de eerste prioriteit van de koning. De bewakers bij dit evenement zorgen voor jullie veiligheid."
+  },
+  "Op scherp staan": {
+    "translation": "to be in the state of alertness",
+    "example": "De onderhandelingen staan op scherp. (=== the negotiations are tense)"
+  },
+  "Een scherpe tong hebben": {
+    "translation": "iemand is erg kritisch, bijtend of sarcastisch",
+    "example": "Ze heeft een scherpe tong."
+  },
+  "Iets scherp in de gaten houden": {
+    "translation": "to keep a close eye on smth",
+    "example": "De politie houdt de situatie scherp in de gaten."
+  },
+  "Scherp blijven": {
+    "translation": "alert blijven",
+    "example": "Je moet scherp blijven tijdens het rijden."
+  },
+  "Scherp": {
+    "translation": "sharp",
+    "example": "Zij pakte het scherpe mes uit de lade. Ze is heel scherp en ziet fouten meteen. Blijf scherp tijdens het examen. Hij heeft een scherp oog voor details. Deze winkel biedt scherpe prijzen. Er is een scherp contrast tussen arm en rijk."
+  },
+  "Tijdelijk": {
+    "translation": "temporarily",
+    "example": "Het ging om een tijdelijke maatregel. Ik ben tijdelijk niet beschikbaar."
+  },
+  "Versie, de": {
+    "translation": "version",
+    "example": "Deze versie van het programma werkt niet. Dit is de oorspronkelijke versie van het liedje."
+  },
+  "Zowat": {
+    "translation": "Belgisch bijna",
+    "example": "Er waren zowat honderd mensen aanwezig. Hij kent zowat iedereen in het dorp."
+  },
+  "Voorwaarde, de": {
+    "translation": "condition",
+    "example": "Je voldoet niet aan de voorwaarden. De verhuurder stelde één voorwaarde. Ik help je onder de voorwaarde dat je eerlijk bent. Je mag meegaan op voorwaarde dat je op tijd bent. Een diploma is een voorwaarde voor deze baan."
+  },
+  "Streng zijn voor iemand": {
+    "translation": "to be strict with someone",
+    "example": "Mijn ouders waren streng voor mij. Je bent veel te streng voor jezelf."
+  },
+  "Trainen |trainde, heb getraind|": {
+    "translation": "to train",
+    "example": "Ik train voor een marathon. Zij traint haar benen in de sportschool. Het team traint elke dinsdagavond."
+  },
+  "Gewond": {
+    "translation": "injured",
+    "example": "De gewonde man heeft zelf 112 gebeld."
+  },
+  "Doelpunt, de": {
+    "translation": "goal",
+    "example": "Hij maakte een doelpunt. Het enige doelpunt van de wedstrijd viel in de 89e minuut."
+  },
+  "Verhogen |verhoogde, heb verhoogd|": {
+    "translation": "to increase",
+    "example": "De overheid verhoogt de belastingen. De centrale bank verhoogde de rente. Hij verhoogde zijn stem. (= hij ging luider praten) We moeten de productie verhogen. De prijzen stegen omdat de regering de belastingen had verhoogd."
+  },
+  "Aanvankelijk": {
+    "translation": "initial, F",
+    "example": "Aanvankelijk wilde ik thuisblijven, maar uiteindelijk ben ik toch gegaan. Aanvankelijk was alles rustig."
+  },
+  "Inzetten |zette in, heb ingezet|": {
+    "translation": "to bring into action",
+    "example": "Het bedrijf zet extra personeel in. De politie zette een helikopter in. Ik wil me volledig inzetten voor dit project. De zanger zette het volgende lied in. (= begon te zingen)"
+  },
+  "Behalen |behaalde, heb behaald|": {
+    "translation": "to gain, to achieve, F",
+    "example": "Het team behaalde een overwinning. Ik heb mijn successen behaald door hard te werken. Een diploma behalen, succes behalen, een overwinning behalen, goede resultaten behalen, een doel behalen."
+  },
+  "Aangezien": {
+    "translation": "since, given than F",
+    "example": "Aangezien ze veel ervaring heeft, kreeg ze de baan. Aangezien de trein vertraging heeft, kom ik later aan. Aangezien de vraag naar het product is gestegen, verhoogde het bedrijf de productie. Ik ga naar huis, aangezien het laat is. Aangezien de productie daalt, moet het bedrijf andere bronnen van financiering vinden."
+  },
+  "Zakken |zakte, word gezakt|": {
+    "translation": "to drop, to fail, to collapse",
+    "example": "De temperatuur zakt. De zon zakt achter de horizon. Hij zakte voor zijn rijexamen. Hij zakte van uitputting in elkaar. Zijn sokken zakken steeds af. Ze zakte weg in gedachten."
+  },
+  "Bereid": {
+    "translation": "prepared, ready",
+    "example": "Ik ben bereid om te helpen. Ze is bereid om langer te blijven. Ben je bereid om dit risico te nemen?"
+  },
+  "Oorspronkelijk": {
+    "translation": "original",
+    "example": "Hij komt oorspronkelijk uit België. Het oorspronkelijke plan was om morgen te vertrekken. Het oorspronkelijke gebouw werd in 1850 gebouwd."
+  },
+  "Twijfel, de": {
+    "translation": "doubt",
+    "example": "Ik heb twijfels over zijn beslissing. Hij is zonder twijfel de beste speler. Het succes van het project is nog niet buiten twijfel. Ik trek zijn verhaal in twijfel. Zijn verklaring werd in twijfel getrokken."
+  },
+  "Commissie, de": {
+    "translation": "committee, commission",
+    "example": "De commissie onderzoekt de zaak. De verkoper krijgt commissie per verkoop."
+  },
+  "Combinatie, de": {
+    "translation": "combination",
+    "example": "Een goede combinatie van kleuren. De combinatie van werk en studie is zwaar. Deze wijn past goed bij die combinatie van smaken."
+  },
+  "Onafhankelijk": {
+    "translation": "independent",
+    "example": "Dit land werd in 1975 onafhankelijk. Ze werd vroeg onafhankelijk van haar ouders."
+  },
+  "Vaststellen |stelde vast, heb vastgesteld|": {
+    "translation": "to determine, to adopt/set",
+    "example": "De politie stelde vast dat er was ingebroken. De gemeente stelde nieuwe regels vast. We stelden vast dat er een fout was. Ze konden de oorzaak niet vaststellen."
+  },
+  "Belanden |belandde, ben beland|": {
+    "translation": "to end up",
+    "example": "Hij belandde in het ziekenhuis na het ongeluk. Hij is uiteindelijk in de gevangenis beland. Ik belandde uiteindelijk op een mysterieus eiland."
+  },
+  "Verspreiden |verspreidde, heb verspreid|": {
+    "translation": "to spread",
+    "example": "Ze verspreiden overal onjuiste informatie. Muggen kunnen ziektes verspreiden. De bloemen verspreiden een heerlijke geur. Vrijwilligers verspreidden flyers. De menigte verspreidde zich na het concert."
+  },
+  "Voegen |voegde, heb gevoegd|": {
+    "translation": "to add",
+    "example": "Ik wil nog iets aan het rapport toevoegen. De schrijver voegde een nieuw hoofdstuk toe. Hij voegde zich bij de groep. Ze voegde zich bij het gesprek. Kun je deze twee bestanden samenvoegen?"
+  },
+  "Thema, het": {
+    "translation": "theme",
+    "example": "Het belangrijkste thema van het boek is eenzaamheid. Wat is het thema van deze film? Het thema van het feest is de jaren tachtig. Vrijheid is een terugkerend thema in zijn werk."
+  },
+  "Gegeven, het": {
+    "translation": "fact, data",
+    "example": "Het programma heeft de gegevens in een database gezet. Dit gegeven klopt niet. We beschikken niet over alle gegevens. Je persoonsgegevens worden veilig opgeslagen."
+  },
+  "Opvallend": {
+    "translation": "striking",
+    "example": "Ze draagt een opvallende nieuwe rok. Er was niks opvallends in het verslag."
+  },
+  "Voldoen aan de verwachtingen": {
+    "translation": "meet the expectations",
+    "example": "Ik vertrouwde mijn huisarts, maar hij voldeed niet aan mijn verwachtingen. De film heeft aan mijn verwachtingen voldaan."
+  },
+  "Vlak, het": {
+    "translation": "flat, level, just before/after",
+    "example": "Het oppervlak is vlak. We zochten een vlak stuk grond voor de tent. Vlak voor de vergadering belde hij me. Ik woon vlak bij het station. Hij sprak met een vlakke stem (== unemotional)."
+  },
+  "Conclusie, de": {
+    "translation": "conclusion",
+    "example": "Hij kwam tot de conclusie dat hij een nieuwe baan moet vinden."
+  },
+  "Onthouden zich |onthield, wordt onthouden|": {
+    "translation": "to refrain from",
+    "example": "Zich onthouden van alcohol. Hij onthield zich van alcohol. Zich onthouden van stemmen."
+  },
+  "Productie, de": {
+    "translation": "production",
+    "example": "Industriële productie en export vertonen een stijgende lijn."
+  },
+  "Karakter, de": {
+    "translation": "character",
+    "example": "Hij heeft een sterk karakter. Dat hoort nu eenmaal bij zijn karakter. Mijn favoriete karakter uit de film is de hoofdpersoon. De stad heeft een uniek karakter."
+  },
+  "Deelnemer, de": {
+    "translation": "participant",
+    "example": "Alle deelnemers stonden aan de start. De cursus heeft twintig deelnemers. De deelnemers aan het onderzoek waren tussen de 18 en 65 jaar oud."
+  },
+  "Overnemen |nam over, heb overgenomen|": {
+    "translation": "to take over, to pick up",
+    "example": "Kun jij mijn dienst overnemen? Een collega nam zijn taken over tijdens zijn vakantie. Hij heeft die uitdrukking van zijn vader overgenomen. Veel landen namen het systeem over."
+  },
+  "Beleven |beleefde, heb beleefd|": {
+    "translation": "to go through",
+    "example": "Ik heb een fantastische vakantie beleefd. Ze beleefde een moeilijke periode."
+  },
+  "Schijnen |scheen|": {
+    "translation": "to appear",
+    "example": "Hij schijnt ziek te zijn. Hij schijnt Nederlanda te leren. Het schijnt dat hij ziek is. Het schijnt dat ze gaan verhuizen."
+  },
+  "Afdeling, de": {
+    "translation": "department",
+    "example": "De IT-afdeling bestaat uit enkele van de slimste werknemers van het bedrijf."
+  },
+  "Trekken |trok, ben getrokken|": {
+    "translation": "to pull, to roam",
+    "example": "Hij trok van stad naar stad. Ze trokken de bergen in. De jongen trok aan haar haar om haar aandacht te trekken."
+  },
+  "Wijk, de": {
+    "translation": "district, neighbourhood",
+    "example": "Wij trekken van wijk naar wijk door Nederland."
+  },
+  "Behouden |behield, heb behouden|": {
+    "translation": "to keep, F",
+    "example": "Ik krijg ander werk, maar behoud mijn oude salaris. We willen de natuur behouden. Het gebouw is goed behouden gebleven. Zijn kalmte behouden, de controle behouden, zijn positie behouden."
+  },
+  "Akkoord, het": {
+    "translation": "agreement, chord",
+    "example": "Ik ga akkoord. Hij ging akkoord met het contract. We hebben een akkoord bereikt. Het akkoord werd gisteren gesloten. Hoe kunnen we tot een akkoord komen?"
+  },
+  "Deelnemen |nam deel, heb deelgenomen|": {
+    "translation": "to participate",
+    "example": "Hij heeft aan een evenement deelgenomen. Ik neem morgen deel aan een vergadering. Veel studenten namen deel aan de cursus."
+  },
+  "Drijven |dreef, heb gedreven|": {
+    "translation": "to float, to drive",
+    "example": "Het bootje drijft op het water. De wolken drijven over de hemel. Ambitie drijft haar vooruit. De grote vraag drijft de prijzen op. Wat drijft jou? (what motivates you?)"
+  },
+  "Afkomstig": {
+    "translation": "originating",
+    "example": "Ik ben afkomstig uit Rusland. Deze kaas is afkomstig uit Nederland."
+  },
+  "Luiden |luidde, heb geluid|": {
+    "translation": "to ring, to read as, to be, F",
+    "example": "De kerkklokken luiden. Hij luidde de bel. De conclusie luidt dat het plan niet haalbaar is. De officiële verklaring luidde dat er geen gevaar was."
+  },
+  "Opleiding, de": {
+    "translation": "training, learning course",
+    "example": "Ik volg een opleiding tot verpleegkundige. Ik heb mijn opleiding vorig jaar afgerond. Hij heeft een technische opleiding. Ze volgt een opleiding tot piloot."
+  },
+  "Tevens": {
+    "translation": "also, F",
+    "example": "Hij is directeur en tevens medeoprichter van het bedrijf. Ik wil tevens nog iets toevoegen."
+  },
+  "Verwachting, de": {
+    "translation": "expectation",
+    "example": "Ik vertrouwde mijn huisarts, maar hij voldeed niet aan mijn verwachtingen. De verwachting is dat het morgen gaat regenen. Ik heb hoge verwachtingen van hem. Tegen de verwachting in won hij de wedstrijd."
+  },
+  "Uitkomen |kwam uit, heb uitgekomen|": {
+    "translation": "to release, to pass/fit, оказаться, укладываться, выходить",
+    "example": "Dit boek kwam in 1996 uit. Vrijdag komt mij goed uit. Het kwam uit dat hij had gelogen. Ik kom deze maand niet uit met mijn salaris. Mijn droom is uitgekomen. Deze weg komt uit bij het station."
+  },
+  "Oppakken |oppakte, heb opgepakt|": {
+    "translation": "to lift up, to continue, to address, to arrest",
+    "example": "Kun je die doos even oppakken? Ik wil mijn Nederlands weer oppakken. We moeten dit probleem snel oppakken. De twee verdachten zijn door de politie opgepakt."
+  },
+  "Wat betreft": {
+    "translation": "regarding",
+    "example": "Wat betreft de planning, heb ik geen opmerkingen. Wat wandelen betreft, heb ik veel ervaring."
+  },
+  "Oplopen |liep op, heb opgelopen|": {
+    "translation": "get an injury, increase, go towards smbd",
+    "example": "Ze liep ernstige verwondingen op. De kosten lopen snel op. Hij liep op de agent af."
+  },
+  "Waarna": {
+    "translation": "after that",
+    "example": "Hij betaalde, waarna hij vertrok. Hij maakte de deur open, waarna hij naar binnen liep."
+  },
+  "Plaatselijk": {
+    "translation": "local, in a particular place",
+    "example": "Er zijn plaatselijk zware regenbuien. De plaatselijke bevolking protesteerde tegen de plannen."
+  },
+  "Straf, de": {
+    "translation": "punishment",
+    "example": "Hij kreeg straf omdat hij had gelogen. De straf voor die misdaad was vijf jaar gevangenisstraf."
+  },
+  "Ideaal": {
+    "translation": "ideal",
+    "example": "Dit is ideaal! Dat is een ideale oplossing. Zaterdag is ideaal voor mij. Deze locatie is ideaal."
+  },
+  "Vergelijking": {
+    "translation": "comparison, equation",
+    "example": "De docent maakte een vergelijking tussen Nederlands en Duits. Een vergelijking met vorig jaar laat zien dat de omzet is gestegen. Los deze vergelijking op."
+  },
+  "Uitgebreid": {
+    "translation": "detailed, extensive, thorough",
+    "example": "Hij gaf een uitgebreide uitleg. Ze schreef een uitgebreid verslag. Het museum heeft een uitgebreide collectie. We hebben de mogelijkheden uitgebreid onderzocht."
+  },
+  "Rechtstreeks": {
+    "translation": "direct",
+    "example": "De weg vormt een rechtstreekse verbinding tussen de twee steden. Neem rechtstreeks contact met mij op. Ik heb het rechtstreeks van haar gehoord."
+  },
+  "Binnen het kader van": {
+    "translation": "в рамках",
+    "example": "Binnen het kader van het onderzoek werden honderd mensen geïnterviewd."
+  },
+  "Kader, het": {
+    "translation": "frame, рамка, в рамках",
+    "example": "Het schilderij zit in een houten kader. Binnen het kader van dit project… Binnen het kader van de cursus moeten alle studenten een verslag schrijven. De overheid heeft een nieuw beleidskader opgesteld."
+  },
+  "Puur": {
+    "translation": "pure, only",
+    "example": "pure chocolade, puur goud, pure wol. Ik deed het puur uit nieuwsgierigheid. Hij helpt haar puur uit vriendelijkheid. Het was puur geluk."
+  },
+  "Tegenstelling": {
+    "translation": "contrast, opposite",
+    "example": "In tegenstelling tot zijn broer houdt hij van sporten. In tegenstelling tot veel mensen drink ik geen koffie. Er is een duidelijke tegenstelling tussen arm en rijk. Zwart en wit vormen een sterke tegenstelling."
   }
 }
